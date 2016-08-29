@@ -1,21 +1,16 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { connect } from 'cerebral-view-react';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
-        </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
-  }
-}
+import Stack from './components/stack/stack';
 
-export default App;
+export default connect(
+    { cards: 'cards', index: 'index' },
+    { cardChosen: 'cardChosen' },
+    function App(props) {
+        return (
+            <div>
+                <Stack cards={props.cards} current={props.index} select={props.cardChosen}/>
+            </div>
+        );
+    }
+);

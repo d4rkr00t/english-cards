@@ -1,0 +1,17 @@
+.stack {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 30px;
+
+    transform: translateY(-50%) translateX(-50%);
+}
+
+.stack__controls {
+    margin-top: 16px;
+    text-align: right;
+}

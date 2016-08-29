@@ -1,0 +1,39 @@
+.next-button {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 36px;
+
+    position: relative;
+
+    display: inline-block;
+    overflow: hidden;
+
+    min-width: 64px;
+    height: 36px;
+    margin: 0;
+    padding: 0 16px;
+
+    cursor: pointer;
+    transition: box-shadow .2s cubic-bezier(.4, 0, 1, 1), background-color .2s cubic-bezier(.4, 0, .2, 1), color .2s cubic-bezier(.4, 0, .2, 1);
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    letter-spacing: 0;
+    text-transform: uppercase;
+
+    color: #9E9E9E;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+    background: 0 0;
+
+    will-change: box-shadow;
+}
+
+.next-button:hover {
+    background-color: rgba(158, 158, 158, .2);
+}
+
+.next-button:active {
+    background-color: rgba(158, 158, 158, .4);
+}

@@ -3,6 +3,14 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "cerebral": "^1.0.1",
+    "cerebral-module-devtools": "^0.7.2",
+    "cerebral-view-react": "^0.12.12",
+    "eslint": "^3.4.0",
+    "eslint-plugin-flowtype": "^2.11.4",
+    "eslint-plugin-jsx-a11y": "^2.2.0",
+    "eslint-plugin-react": "^6.2.0",
     "react-scripts": "0.2.3"
   },
   "dependencies": {
