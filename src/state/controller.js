@@ -24,7 +24,7 @@ stateController.addModules({
 
 stateController.addSignals({
     dayPlanRestored: { chain: [restoreDayPlan] },
-    initialCardChosen: { chain: [chooseCard, storeCardIdInLocalStorage(Math.ceil(data.cards.length / 2))] },
+    initialCardChosen: { chain: [chooseCard, storeCardIdInLocalStorage(Math.floor(data.cards.length / 1.5))] },
     cardChosen: { chain: [
             chooseCard, storeCardIdInLocalStorage(Math.ceil(data.cards.length / 2)),
             updateDayPlan, storeDayPlanInLocalStorage
