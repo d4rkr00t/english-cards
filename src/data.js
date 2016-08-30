@@ -14,6 +14,21 @@ export default {
             text: 'ahead of the pack',
             meaning: 'To be "ahead of the pack" means to be better or more successful than the competition.',
             examples: ['If we want to stay ahead of the pack, we\'re going to have to work really hard and continue to innovate.']
+        },
+        {
+            text: 'at stake',
+            meaning: '"At stake" means at risk.',
+            examples: [
+                'I\'m a little nervous about giving this presentation. There\'s a lot at stake.',
+                'About 3000 jobs are at stake if the company closes down.'
+            ]
+        },
+        {
+            text: 'intimidating',
+            cambridge: {
+                img: 'https://habrastorage.org/files/a01/6a4/f70/a016a4f70cef42c19cf234941f8a82ec.png',
+                url: 'http://dictionary.cambridge.org/dictionary/english/intimidating'
+            }
         }
     ]
 };

@@ -1,17 +1,17 @@
 .stack {
-    position: absolute;
-    top: 50%;
-    left: 50%;
+    display: inline-block;
 
+    box-sizing: border-box;
     width: 100%;
     max-width: 700px;
     margin: 0 auto;
     padding: 30px;
 
-    transform: translateY(-50%) translateX(-50%);
+    text-align: left;
 }
 
 .stack__controls {
     margin-top: 16px;
+
     text-align: right;
 }

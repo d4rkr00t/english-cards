@@ -1,10 +1,13 @@
-html, body {
+html,
+body,
+#root {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+
+    height: 100%;
     margin: 0;
     padding: 0;
-    height: 100%;
-    font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
 body {
-    background: #37474F;
+    background: #263238;
 }

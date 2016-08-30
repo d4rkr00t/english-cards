@@ -4,15 +4,15 @@
 
 .card__container {
     background: #fff;
-    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+    box-shadow: 0 9px 46px 8px rgba(0, 0, 0, .14), 0 11px 15px -7px rgba(0, 0, 0, .12), 0 24px 38px 3px rgba(0, 0, 0, .2);
 }
 
 .card__content {
-    padding: 16px;
+    padding: 21px;
 }
 
 .card_sep {
-    margin: 0 -16px 12px;
+    margin: 0 -21px 21px;
 
     border-top: 1px solid rgba(0, 0, 0, .1);
 }
@@ -20,16 +20,22 @@
 .card__text {
     font-size: 1.15em;
 
-    margin-bottom: 12px;
+    margin-bottom: 21px;
 }
 
 .card__meaning {
-    margin-bottom: 12px;
+    margin-bottom: 21px;
 }
 
 .card__meaning,
-.card__examples {
+.card__section {
     font-size: .95em;
+
+    overflow: hidden;
+
+    width: 100%;
+
+    text-overflow: ellipsis;
 
     color: rgba(0, 0, 0, .6);
 }
@@ -39,5 +45,20 @@
 }
 
 .card__row + .card__row {
-    margin-top: 6px;
+    margin-top: 9px;
+}
+
+.card__img {
+    max-width: 100%;
+}
+
+.card__url,
+.card__url:visited {
+    font-size: .9em;
+
+    color: #388e3c;
+}
+
+.card__cambridge .card__img {
+    margin-top: 12px;
 }

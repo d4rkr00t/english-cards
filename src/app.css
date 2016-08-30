@@ -1,0 +1,22 @@
+.app {
+    display: table;
+
+    width: 100%;
+    height: 100%;
+}
+
+.app__top,
+.app__cards {
+    display: table-row;
+}
+
+.app__cards {
+    height: 100%;
+}
+
+.app__cell {
+    display: table-cell;
+
+    text-align: center;
+    vertical-align: middle;
+}
