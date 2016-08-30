@@ -5,8 +5,10 @@ import controller from './state/controller';
 import App from './app';
 import './index.css';
 
-const cardChosen = controller.getSignals('cardChosen');
-cardChosen({ val: -1 });
+const initialCardChosen = controller.getSignals('initialCardChosen');
+const dayPlanRestored = controller.getSignals('dayPlanRestored');
+initialCardChosen({ val: -1 });
+dayPlanRestored();
 
 ReactDOM.render(
   <Container controller={controller}><App/></Container>,
