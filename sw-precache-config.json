@@ -3,7 +3,7 @@
     "runtimeCaching": [
         {
             "urlPattern": ".*",
-            "handler": "cacheFirst"
+            "handler": "networkFirst"
         }
     ]
 }
