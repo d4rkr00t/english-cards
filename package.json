@@ -25,7 +25,8 @@
     "move:build": "rm -rf docs && mv build docs",
     "copy:manifest": "cp ./manifest.json ./docs/manifest.json",
     "service-worker": "sw-precache --root=docs/ && uglifyjs docs/service-worker.js -o docs/service-worker.js",
-    "build": "react-scripts build && npm run move:build && npm run service-worker && npm run copy:manifest",
+    "build": "react-scripts build && npm run move:build && npm run copy:manifest",
+    "postbuild": "npm run service-worker",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
