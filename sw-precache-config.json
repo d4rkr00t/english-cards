@@ -1,0 +1,9 @@
+{
+    "root": "./docs",
+    "runtimeCaching": [
+        {
+            "urlPattern": ".*",
+            "handler": "cacheFirst"
+        }
+    ]
+}
