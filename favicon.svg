@@ -8,25 +8,25 @@
             <stop stop-color="#7B1FA2" offset="0%"></stop>
             <stop stop-color="#673AB7" offset="100%"></stop>
         </linearGradient>
-        <rect id="path-2" x="0" y="0" width="192" height="192" rx="3"></rect>
+        <rect id="path-2" x="0" y="0" width="192" height="181" rx="40"></rect>
         <path d="M29.125,168.05 L104.125,168.05 L104.125,74.3 L29.125,74.3 L29.125,168.05 L29.125,168.05 Z M29.125,241.55 L104.125,241.55 L104.125,185.3 L29.125,185.3 L29.125,241.55 L29.125,241.55 Z M29.125,56.75 L104.125,56.75 L104.125,0.5 L29.125,0.5 L29.125,56.75 L29.125,56.75 Z M122.875,200.475 L197.875,200.475 L197.875,106.725 L122.875,106.725 L122.875,200.475 L122.875,200.475 Z M122.875,31.725 L122.875,87.975 L197.875,87.975 L197.875,31.725 L122.875,31.725 L122.875,31.725 Z" id="path-4"></path>
         <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
             <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <rect id="path-6" x="0" y="0" width="192" height="192" rx="3"></rect>
+        <rect id="path-6" x="0" y="0" width="192" height="181" rx="40"></rect>
         <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
-            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feGaussianBlur stdDeviation="5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.27 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="192---Play-Store">
-            <g id="Sign">
-                <rect id="Rectangle-3" fill="url(#linearGradient-1)" x="0" y="0" width="192" height="192" rx="3"></rect>
+            <g id="Sign" transform="translate(0.000000, 6.000000)">
+                <rect id="Rectangle-3" fill="url(#linearGradient-1)" x="0" y="0" width="192" height="181" rx="60"></rect>
                 <g id="ic_dashboard_black_48px" opacity="0.980000019">
                     <g>
                         <mask id="mask-3" fill="white">
