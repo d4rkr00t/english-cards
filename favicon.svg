@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="193px" height="193px" viewBox="0 0 193 193" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>192 - Play Store</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="92.5073104%" y1="72.533869%" x2="8.00281924%" y2="23.8962359%" id="linearGradient-1">
+            <stop stop-color="#7B1FA2" offset="0%"></stop>
+            <stop stop-color="#673AB7" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="96" cy="96" r="96"></circle>
+        <path d="M29.125,165.875 L104.125,165.875 L104.125,72.125 L29.125,72.125 L29.125,165.875 L29.125,165.875 Z M29.125,236.875 L104.125,236.875 L104.125,180.625 L29.125,180.625 L29.125,236.875 L29.125,236.875 Z M29.5,56.75 L104.5,56.75 L104.5,0.5 L29.5,0.5 L29.5,56.75 L29.5,56.75 Z M122.875,196.875 L197.875,196.875 L197.875,103.125 L122.875,103.125 L122.875,196.875 L122.875,196.875 Z M122.875,28.125 L122.875,84.375 L197.875,84.375 L197.875,28.125 L122.875,28.125 L122.875,28.125 Z" id="path-4"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-6" cx="96" cy="96" r="96"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="5.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.178979846 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="192---Play-Store">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="96" cy="96" r="96"></circle>
+            <g id="ic_dashboard_black_48px" opacity="0.980000019">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <g mask="url(#mask-3)" id="Shape">
+                    <g transform="translate(-15.500000, -15.500000)">
+                        <polygon points="0 0 225 0 225 225 0 225"></polygon>
+                        <g>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Oval" fill-opacity="1" fill="black">
+                <use filter="url(#filter-7)" xlink:href="#path-6"></use>
+            </g>
+        </g>
+    </g>
+</svg>
