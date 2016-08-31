@@ -74,7 +74,7 @@ export function CardCambridge(props) {
             <Badge color='1'>Cambridge Dictionary</Badge>
             <div>
                 <a className='card__url' href={props.children.url}>{props.children.url}</a>
-                { props.children.items.map((item, i) => <CardCambridgeItem key={i}>{item}</CardCambridgeItem>) }
+                { (props.children.items || []).map((item, i) => <CardCambridgeItem key={i}>{item}</CardCambridgeItem>) }
             </div>
         </div>
     );

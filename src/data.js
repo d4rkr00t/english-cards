@@ -583,6 +583,273 @@ export default {
                 'My plumber charges £20 an hour.',
                 'The policy of charging air travellers for vegetarian meals proved unpopular.'
             ]
+        },
+        {
+            text: 'ask sb out',
+            meaning: 'invite on a date (as in a courtship)',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/ask-sb-out'
+            },
+            examples: [
+                'Brian asked Judy out to dinner and a movie.',
+                'She\'s asked Steve out to the cinema this evening.',
+                'You should ask her out sometime.'
+            ]
+        },
+        {
+            text: 'blow up',
+            meaning: 'explode',
+            examples: ['The racing car blew up after it crashed into the fence.']
+        },
+        {
+            text: 'break down',
+            meaning: 'stop functioning (vehicle, machine)',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/break-down',
+                items: [
+                    {
+                        "partOfSpeach": "phrasal verb",
+                        "senses": [
+                            {
+                                "title": "(MACHINE)",
+                                "definitions": [
+                                    {
+                                        "meaning": "If a machine or vehicle breaks down, it stops working",
+                                        "examples": [
+                                            "Our car broke down and we had to push it off the road."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            examples: [
+                "The school bus broke down and had to be towed to the nearest garage.",
+                "Oh no - has your washing machine broken down again?",
+                "I'm worried that his car has broken down, or worse still, that he's had an accident.",
+                "If the central heating breaks down again, I will refuse to pay the repair bill.",
+                "Our dishwasher broke down just a month after the guarantee had expired.",
+                "Our car broke down at the side of the highway in the snowstorm."
+            ]
+        },
+        {
+            text: 'break in',
+            meaning: 'force entry to a building',
+            cambridge: {
+                url: '',
+                items: [
+                    {
+                        "partOfSpeach": "phrasal verb",
+                        "senses": [
+                            {
+                                "title": "(ENTER ILLEGALLY)",
+                                "definitions": [
+                                    {
+                                        "meaning": "to enter a building illegally, usually by damaging a door or window, esp. for the purpose of stealing something",
+                                        "examples": [
+                                            "Thieves broke into our office downtown and stole the computers."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            examples: [
+                "Somebody broke in last night and stole our stereo."
+            ]
+        },
+        {
+            text: 'break into something',
+            meaning: 'enter forcibly',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/break-into-something',
+                items: [
+                    {
+                        "partOfSpeach": "phrasal verb",
+                        "senses": [
+                            {
+                                "title": "(USE FORCE)",
+                                "definitions": [
+                                    {
+                                        "meaning": "to force your way into something",
+                                        "examples": [
+                                            "He’s had his apartment broken into twice."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            examples: [
+                'The firemen had to break into the room to rescue the children.'
+            ]
+        },
+        {
+            text: 'check on sb/sth',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/check-on-sb-sth',
+                items: [
+                    {
+                        "partOfSpeach": "phrasal verb",
+                        "senses": [
+                            {
+                                "definitions": [
+                                    {
+                                        "meaning": "to look at someone or something in order to make sure that they are safe, correct, etc.",
+                                        "examples": [
+                                            "You will need to check on your new employees' qualifications."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            text: 'cite',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/cite',
+                items: [
+                    {
+                        "partOfSpeach": "verb",
+                        "senses": [
+                            {
+                                "title": "cite verb [ T ] (MENTION)",
+                                "definitions": [
+                                    {
+                                        "meaning": "to mention something as proof for a theory or as a reason why something has happened, or to speak or write words taken from a written work",
+                                        "examples": [
+                                            "He cited a study of the devices as proof that the company knew they were dangerous.",
+                                            "Scientists cite this experiment as their main support for this theory."
+                                        ]
+                                    },
+                                    {
+                                        "meaning": "To cite someone else’s words when speaking or writing is to use them",
+                                        "examples": [
+                                            "If you cite too many writers, readers will wonder if you have any ideas of your own."
+                                        ]
+                                    },
+                                    {
+                                        "meaning": "In law, a person or organization which is cited is named in a legal action",
+                                        "examples": [
+                                            "The mine operator was cited with 33 violations of federal safety standards."
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "cite verb [ T ] (PRAISE)",
+                                "definitions": [
+                                    {
+                                        "meaning": "to praise someone publicly for something the person has done",
+                                        "examples": [
+                                            "He was cited for bravery."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            text: 'clarify',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/clarify',
+                items: [
+                    {
+                        "partOfSpeach": "verb",
+                        "senses": [
+                            {
+                                "definitions": [
+                                    {
+                                        "meaning": "to make something clearer or easier to understand",
+                                        "examples": [
+                                            "I hope this analysis will clarify the debate.",
+                                            "Talking it through with you has helped me to clarify my own thinking about the problem."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            text: 'concede',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/concede',
+                items: [
+                    {
+                        "partOfSpeach": "verb",
+                        "senses": [
+                            {
+                                "definitions": [
+                                    {
+                                        "meaning": "to admit that something is true, or to allow something",
+                                        "examples": [
+                                            "Officials concede (that) the plan isn’t the best one."
+                                        ]
+                                    },
+                                    {
+                                        "meaning": "If you concede in a competition, you admit that you have lost",
+                                        "examples": [
+                                            "She conceded (the election) yesterday."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            text: 'deceive',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/deceive',
+                items: [
+                    {
+                        "partOfSpeach": "verb",
+                        "senses": [
+                            {
+                                "definitions": [
+                                    {
+                                        "meaning": "to persuade someone that something false is the truth, or to keep the truth hidden from someone for your own advantage",
+                                        "examples": [
+                                            "The company deceived customers by selling old computers as new ones.",
+                                            "The sound of the door closing deceived me into thinking they had gone out."
+                                        ]
+                                    },
+                                    {
+                                        "meaning": "to refuse to accept the truth",
+                                        "examples": [
+                                            "She thinks he'll come back, but she's deceiving herself."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                    }
+                ]
+            },
+            examples: [
+                "Anyway, I can't deceive him - it's against all my principles.",
+                "He repudiated the allegation that he had tried to deceive them.",
+                "I suspect these statistics flatter to deceive.",
+                "What really angered her was the dirty underhand way they had deceived her.",
+                "They deceived us into thinking they would come back later with our money."
+            ]
         }
     ]
 };
