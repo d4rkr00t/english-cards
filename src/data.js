@@ -249,7 +249,6 @@ export default {
         },
         {
             text: 'be on the ball',
-            meaning: 'to be quick to understand and react to things',
             cambridge: {
                 url: 'http://dictionary.cambridge.org/dictionary/english/be-on-the-ball',
                 items: [
@@ -273,7 +272,6 @@ export default {
         },
         {
             text: 'be pressed for time',
-            meaning: 'to be in a hurry',
             cambridge: {
                 url: 'http://dictionary.cambridge.org/dictionary/english/be-pressed-for-time',
                 items: [
@@ -297,7 +295,6 @@ export default {
         },
         {
             text: 'bear with sb',
-            meaning: 'to be patient and wait while someone does something',
             cambridge: {
                 url: 'http://dictionary.cambridge.org/dictionary/english/bear-with-sb',
                 items: [
@@ -395,7 +392,6 @@ export default {
         },
         {
             text: 'bummer',
-            meaning: 'a situation or event that is unpleasant or disappointing',
             cambridge: {
                 url: 'http://dictionary.cambridge.org/dictionary/english/bummer',
                 items: [
@@ -419,7 +415,6 @@ export default {
         },
         {
             text: 'by far',
-            meaning: 'by a great amount',
             cambridge: {
                 url: 'http://dictionary.cambridge.org/dictionary/english/by-far',
                 items: [
@@ -443,7 +438,6 @@ export default {
         },
         {
             text: 'cash-strapped',
-            meaning: 'not having enough money',
             cambridge: {
                 url: 'http://dictionary.cambridge.org/dictionary/english/cash-strapped',
                 items: [

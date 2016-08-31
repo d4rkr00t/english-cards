@@ -18,16 +18,21 @@
 }
 
 .card__text {
-    font-size: 1.15em;
+    font-size: 1.35em;
+    font-weight: 300;
 
-    margin-bottom: 21px;
+    margin-bottom: 12px;
 }
 
 .card__meaning {
+    font-size: .95em;
+
     margin-bottom: 21px;
+
+    color: rgba(0, 0, 0, .9);
 }
 
-.card__meaning,
+
 .card__section {
     font-size: .95em;
 
@@ -115,8 +120,10 @@
 }
 
 .card__cambridge .card__subsection .card__row {
+    font-size: .95em;
+
     margin-top: 6px;
     margin-left: 12px;
-    font-size: .95em;
+
     color: rgba(0, 0, 0, .7);
 }

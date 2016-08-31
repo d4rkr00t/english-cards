@@ -2,6 +2,7 @@ import React from 'react';
 import './stack.css';
 import Card from '../card/card';
 import NextButton from '../next-button/next-button';
+import DayPlan from '../day-plan/day-plan';
 
 export default function Stack(props) {
     const card = props.cards[props.current];
@@ -10,6 +11,7 @@ export default function Stack(props) {
 
     return (
         <div className='stack'>
+            <DayPlan dayPlanLeft={props.dayPlanLeft} />
             <div className='stack__cards'>
                 <Card card={props.cards[props.current]} />
             </div>
