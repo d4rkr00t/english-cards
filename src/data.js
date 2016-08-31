@@ -850,6 +850,29 @@ export default {
                 "What really angered her was the dirty underhand way they had deceived her.",
                 "They deceived us into thinking they would come back later with our money."
             ]
+        },
+        {
+            text: 'decisive',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/decisive',
+                items: [
+                    {
+                        "partOfSpeach": "adjective",
+                        "senses": [
+                            {
+                                "definitions": [
+                                    {
+                                        "meaning": "making choices quickly and surely, without having any doubts",
+                                        "examples": [
+                                            "In an emergency, decisive action is called for."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         }
     ]
 };
