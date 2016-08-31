@@ -1,6 +1,7 @@
 {
   "short_name": "english-cards",
   "name": "English Cards",
+  "background_color": "#263238",
   "icons": [
     {
       "src": "favicon.ico",
