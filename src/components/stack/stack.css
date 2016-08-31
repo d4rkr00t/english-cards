@@ -16,8 +16,14 @@
     text-align: right;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 425px) {
     .stack {
         padding: 16px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .stack {
+        padding: 12px;
     }
 }
