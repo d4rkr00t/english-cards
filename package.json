@@ -13,7 +13,8 @@
     "eslint-plugin-jsx-a11y": "^2.2.0",
     "eslint-plugin-react": "^6.2.0",
     "react-scripts": "0.2.3",
-    "sw-precache": "^4.0.0"
+    "sw-precache": "^4.0.0",
+    "uglify-js": "^2.7.3"
   },
   "dependencies": {
     "react": "^15.3.1",
@@ -22,7 +23,7 @@
   "scripts": {
     "start": "react-scripts start",
     "move:build": "rm -rf docs && mv build docs",
-    "service-worker": "sw-precache --root=docs/",
+    "service-worker": "sw-precache --root=docs/ && uglifyjs docs/service-worker.js -o docs/service-worker.js",
     "build": "react-scripts build && npm run move:build && npm run service-worker",
     "eject": "react-scripts eject"
   },
