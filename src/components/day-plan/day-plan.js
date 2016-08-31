@@ -4,8 +4,10 @@ import './day-plan.css';
 export default function DayPlan(props) {
     return (
         <div className='day-plan'>
-            Need to revise today:
-            <div className='day-plan__left'>{props.dayPlanLeft}</div>
+            <div className='day-plan__content'>
+                Need to revise today:
+                <div className='day-plan__left'>{props.dayPlanLeft}</div>
+            </div>
         </div>
     );
 }

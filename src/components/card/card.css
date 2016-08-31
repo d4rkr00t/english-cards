@@ -44,7 +44,11 @@
 }
 
 .card__subsection + .card__subsection {
-    margin-top: 12px;
+    margin-top: 24px;
+}
+
+.card__subsection .card__subsection + .card__subsection {
+    margin-top: 18px;
 }
 
 .card__subsection .card__meaning {
@@ -53,6 +57,39 @@
     margin-bottom: 9px;
 
     color: black;
+}
+
+.card__subsection .card__subtitle {
+    margin-bottom: 12px;
+
+    color: #9c27b0;
+}
+
+.card__subsection .card__subsection .card__subtitle {
+    text-transform: uppercase;
+
+    color: rgba(0, 0, 0, .6);
+}
+
+.card__url + .card__subsection {
+    margin-top: 12px;
+}
+
+.card__subsection .card__meaning {
+    margin-left: 12px;
+}
+
+.card__subsection .card__row {
+    font-size: .95em;
+
+    margin-top: 6px;
+    margin-left: 12px;
+
+    color: rgba(0, 0, 0, .7);
+}
+
+.card__def {
+    margin-top: 12px;
 }
 
 .card__row {
@@ -79,51 +116,4 @@
     word-break: break-all;
 
     color: #388e3c;
-}
-
-/*
- CAMBRIDGE
-*/
-
-.card__cambridge .card__img {
-    margin-top: 12px;
-}
-
-.card__cambridge .card__sense + .card__sense {
-    margin-top: 12px;
-}
-
-.card__cambridge .card__subsection + .card__subsection {
-    margin-top: 24px;
-}
-
-.card__cambridge .card__sense-title {
-    text-transform: uppercase;
-}
-
-.card__cambridge .card__def {
-    margin-top: 12px;
-}
-
-.card__cambridge .card__url + .card__subsection {
-    margin-top: 12px;
-}
-
-.card__cambridge .card__subsection .card__subtitle {
-    margin-bottom: 10px;
-
-    color: #9c27b0;
-}
-
-.card__cambridge .card__subsection .card__meaning {
-    margin-left: 12px;
-}
-
-.card__cambridge .card__subsection .card__row {
-    font-size: .95em;
-
-    margin-top: 6px;
-    margin-left: 12px;
-
-    color: rgba(0, 0, 0, .7);
 }

@@ -7,65 +7,74 @@ export function CardSep(props) {
     return <div className='card_sep' />;
 }
 
-export function CardImg(props) {
-    if (!props.src) return null;
-    return <img className='card__img' src={props.src} role='presentation' />;
+export function CardSubsection(props) {
+    if (!props.children) return null;
+    return <div className='card__subsection'>{props.children}</div>;
+}
+
+export function CardSubtitle(props) {
+    if (!props.children) return null;
+    return <div className='card__subtitle'>{props.children}</div>;
 }
 
 export function CardMeaning(props) {
-    if (!props.content) return null;
-    return <div className='card__meaning'>{ props.content }</div>;
+    if (!props.children) return null;
+    return <div className='card__meaning'>{ props.children }</div>;
 }
 
-export function CardExamples(props) {
-    if (!props.content) return null;
+export function CardRowList(props) {
+    if (!props.children) return null;
+    return <div>{ props.children.map((item, i) => <p className='card__row' key={i}>{item}</p>) }</div>;
+}
 
+export function CardDef(props) {
+    if (!props.children) return null;
     return (
-        <div className='card__section'>
-            <Badge>Examples</Badge>
-            <div>
-                { props.content.map((c, i) => <p className='card__row' key={i}>{c}</p>) }
-            </div>
+        <div className='card__def'>
+            <CardMeaning>{ props.children.meaning }</CardMeaning>
+            <CardRowList>{ props.children.examples }</CardRowList>
         </div>
     );
 }
 
-export function CardCambridgeItemSenseDef(props) {
+export function CardExamples(props) {
+    if (!props.children) return null;
     return (
-        <div className='card__def'>
-            <div className='card__meaning'>{ props.content.meaning }</div>
-            { props.content.examples.map((c, i) => <p className='card__row' key={i}>{c}</p>) }
+        <div className='card__section'>
+            <Badge>Examples</Badge>
+            <CardRowList>{ props.children }</CardRowList>
         </div>
     );
 }
 
 export function CardCambridgeItemSense(props) {
+    if (!props.children) return null;
     return (
-        <div className='card__sense'>
-            <div className='card__sense-title'>{ props.content.title }</div>
-            { props.content.definitions.map((c, i) => <CardCambridgeItemSenseDef content={c} key={i} />) }
-        </div>
+        <CardSubsection>
+            <CardSubtitle>{ props.children.title }</CardSubtitle>
+            { props.children.definitions.map((item, i) => <CardDef key={i}>{item}</CardDef>) }
+        </CardSubsection>
     );
 }
 
 export function CardCambridgeItem(props) {
+    if (!props.children) return null;
     return (
-        <div className='card__subsection'>
-            <div className='card__subtitle'>{ props.content.partOfSpeach }</div>
-            { props.content.senses.map((item, i) => <CardCambridgeItemSense content={item} key={i} />) }
-        </div>
+        <CardSubsection>
+            <CardSubtitle>{ props.children.partOfSpeach }</CardSubtitle>
+            { props.children.senses.map((item, i) => <CardCambridgeItemSense key={i}>{item}</CardCambridgeItemSense>) }
+        </CardSubsection>
     );
 }
 
 export function CardCambridge(props) {
-    if (!props.content) return null;
-
+    if (!props.children) return null;
     return (
         <div className='card__section card__cambridge'>
             <Badge color='1'>Cambridge Dictionary</Badge>
             <div>
-                <a className='card__url' href={props.content.url}>{props.content.url}</a>
-                { props.content.items.map((item, i) => <CardCambridgeItem content={item} key={i} />) }
+                <a className='card__url' href={props.children.url}>{props.children.url}</a>
+                { props.children.items.map((item, i) => <CardCambridgeItem key={i}>{item}</CardCambridgeItem>) }
             </div>
         </div>
     );
@@ -79,14 +88,12 @@ export default function Card({ card }) {
         <div className='card'>
             <div className='card__container'>
                 <div className='card__content'>
-                    <div className='card__text'>
-                        { card.text }
-                    </div>
-                    <CardMeaning content={card.meaning} />
+                    <div className='card__text'>{ card.text }</div>
+                    <CardMeaning>{card.meaning}</CardMeaning>
                     <CardSep enabled={isCambridgeSep} />
-                    <CardCambridge content={card.cambridge} />
+                    <CardCambridge>{card.cambridge}</CardCambridge>
                     <CardSep enabled={isExamplesSep} />
-                    <CardExamples content={card.examples} />
+                    <CardExamples>{card.examples}</CardExamples>
                 </div>
             </div>
         </div>
