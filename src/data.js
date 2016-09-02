@@ -997,7 +997,7 @@ export default {
             text: 'diligent',
             cambridge: {
                 url: 'http://dictionary.cambridge.org/dictionary/english/diligent',
-                item: [
+                items: [
                     {
                         "partOfSpeach": "adjective",
                         "senses": [
