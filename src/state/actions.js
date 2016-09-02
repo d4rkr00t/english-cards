@@ -1,10 +1,24 @@
-export function storeCardIdInLocalStorage(capacity) {
-    return function({ input, state, services }) {
-        const current = input.val;
-        const items = services.localStorage.get('cards') || [];
-        items.unshift(current);
-        services.localStorage.set('cards', items.slice(0, capacity));
-    }
+export function loadCards(url) {
+    const loadCardsAction = function({ output }) {
+        fetch(url)
+            .then(res => res.json())
+            .then(output.success)
+            .catch(output.error);
+    };
+    loadCardsAction.async = true;
+    return loadCardsAction;
+}
+
+export function addCardsToState({ input, state }) {
+    state.set('cards', input.cards);
+    state.set('historyLength', Math.floor(input.cards.length / 1.5));
+}
+
+export function storeCardIdInLocalStorage({ input, state, services }) {
+    const current = input.val;
+    const items = services.localStorage.get('cards') || [];
+    items.unshift(current);
+    services.localStorage.set('cards', items.slice(0, state.historyLength));
 }
 
 export function storeDayPlanInLocalStorage({ input, state, services }) {
@@ -15,6 +29,10 @@ export function chooseCard({ input, state, output, services }) {
     let idx = input.val;
     const cards= state.get('cards');
     const items = services.localStorage.get('cards') || [];
+
+    if (idx === undefined) {
+        idx = input.val = -1;
+    }
 
     while (idx === input.val || items.indexOf(idx) !== -1) {
         idx = Math.floor(Math.random() * cards.length);

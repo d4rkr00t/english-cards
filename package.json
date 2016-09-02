@@ -23,9 +23,10 @@
   "scripts": {
     "start": "react-scripts start",
     "move:build": "rm -rf docs && mv build docs",
-    "copy:manifest": "cp ./manifest.json ./docs/manifest.json",
+    "copy:manifest": "cp ./manifest.json ./docs/",
+    "copy:data": "cp ./data.json ./docs/",
     "service-worker": "sw-precache --config=./sw-precache-config.json && uglifyjs docs/service-worker.js -o docs/service-worker.js",
-    "build": "react-scripts build && npm run move:build && npm run copy:manifest",
+    "build": "react-scripts build && npm run move:build && npm run copy:manifest && npm run copy:data",
     "postbuild": "npm run service-worker",
     "eject": "react-scripts eject"
   },

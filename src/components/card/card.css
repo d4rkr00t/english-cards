@@ -26,12 +26,13 @@
 
 .card__meaning {
     font-size: .95em;
+    font-weight: bold;
 
-    margin-bottom: 21px;
+    margin-bottom: 9px;
 
     color: rgba(0, 0, 0, .9);
+    color: black;
 }
-
 
 .card__section {
     font-size: .95em;
@@ -44,31 +45,19 @@
 }
 
 .card__subsection + .card__subsection {
-    margin-top: 24px;
+    margin-top: 21px;
 }
 
 .card__subsection .card__subsection + .card__subsection {
     margin-top: 18px;
 }
 
-.card__subsection .card__meaning {
-    font-weight: bold;
-
-    margin-bottom: 9px;
-
-    color: black;
-}
-
 .card__subsection .card__subtitle {
-    margin-bottom: 12px;
+    margin: 21px 0 9px;
 
-    color: #9c27b0;
-}
-
-.card__subsection .card__subsection .card__subtitle {
     text-transform: uppercase;
 
-    color: rgba(0, 0, 0, .6);
+    color: #9c27b0;
 }
 
 .card__url + .card__subsection {
@@ -88,17 +77,20 @@
     color: rgba(0, 0, 0, .7);
 }
 
-.card__def {
-    margin-top: 12px;
+.card__def + .card__def {
+    margin-top: 21px;
+}
+
+.card__row-list {
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
 }
 
 .card__row {
-    overflow: hidden;
-
     width: 100%;
-    margin: 0;
-
-    text-overflow: ellipsis;
+    margin-left: 12px;
 }
 
 .card__row + .card__row {
@@ -112,6 +104,8 @@
 .card__url,
 .card__url:visited {
     font-size: .9em;
+
+    margin-left: 12px;
 
     word-break: break-all;
 

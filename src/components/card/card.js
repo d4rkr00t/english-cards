@@ -24,7 +24,11 @@ export function CardMeaning(props) {
 
 export function CardRowList(props) {
     if (!props.children) return null;
-    return <div>{ props.children.map((item, i) => <p className='card__row' key={i}>{item}</p>) }</div>;
+    return (
+        <ul className='card__row-list'>
+            { props.children.map((item, i) => <li className='card__row' key={i}>{item}</li>) }
+        </ul>
+    );
 }
 
 export function CardDef(props) {
@@ -40,41 +44,42 @@ export function CardDef(props) {
 export function CardExamples(props) {
     if (!props.children) return null;
     return (
-        <div className='card__section'>
-            <Badge>Examples</Badge>
+        <CardSubsection>
+            <CardSubtitle>Extra Examples</CardSubtitle>
             <CardRowList>{ props.children }</CardRowList>
+        </CardSubsection>
+    );
+}
+
+export function CardItem(props) {
+    if (!props.children) return null;
+    return (
+        <CardSubsection>
+            <Badge>{ props.children.partOfSpeach }</Badge>
+            { props.children.definitions.map((item, i) => <CardDef key={i}>{item}</CardDef>) }
+            <CardExamples>{ props.children.examples }</CardExamples>
+        </CardSubsection>
+    );
+}
+
+export function CardItems(props) {
+    if (!props.children) return null;
+
+    return (
+        <div className='card__section'>
+            { (props.children || []).map((item, i) => <CardItem key={i}>{item}</CardItem>) }
         </div>
     );
 }
 
-export function CardCambridgeItemSense(props) {
-    if (!props.children) return null;
-    return (
-        <CardSubsection>
-            <CardSubtitle>{ props.children.title }</CardSubtitle>
-            { props.children.definitions.map((item, i) => <CardDef key={i}>{item}</CardDef>) }
-        </CardSubsection>
-    );
-}
-
-export function CardCambridgeItem(props) {
-    if (!props.children) return null;
-    return (
-        <CardSubsection>
-            <CardSubtitle>{ props.children.partOfSpeach }</CardSubtitle>
-            { props.children.senses.map((item, i) => <CardCambridgeItemSense key={i}>{item}</CardCambridgeItemSense>) }
-        </CardSubsection>
-    );
-}
 
 export function CardCambridge(props) {
     if (!props.children) return null;
     return (
-        <div className='card__section card__cambridge'>
+        <div className='card__section'>
             <Badge color='1'>Cambridge Dictionary</Badge>
             <div>
-                <a className='card__url' href={props.children.url}>{props.children.url}</a>
-                { (props.children.items || []).map((item, i) => <CardCambridgeItem key={i}>{item}</CardCambridgeItem>) }
+                <a className='card__url' href={props.children}>{props.children}</a>
             </div>
         </div>
     );
@@ -82,18 +87,15 @@ export function CardCambridge(props) {
 
 export default function Card({ card }) {
     const isCambridgeSep = Boolean(card.cambridge);
-    const isExamplesSep = Boolean(card.examples);
-
     return (
         <div className='card'>
             <div className='card__container'>
                 <div className='card__content'>
                     <div className='card__text'>{ card.text }</div>
-                    <CardMeaning>{card.meaning}</CardMeaning>
+                    <CardSep enabled />
+                    <CardItems>{card.items}</CardItems>
                     <CardSep enabled={isCambridgeSep} />
                     <CardCambridge>{card.cambridge}</CardCambridge>
-                    <CardSep enabled={isExamplesSep} />
-                    <CardExamples>{card.examples}</CardExamples>
                 </div>
             </div>
         </div>

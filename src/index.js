@@ -6,9 +6,10 @@ import App from './app';
 import './index.css';
 
 const cardChosen = controller.getSignals('cardChosen');
-const initialCardChosen = controller.getSignals('initialCardChosen');
+const cardsLoaded = controller.getSignals('cardsLoaded');
 const dayPlanRestored = controller.getSignals('dayPlanRestored');
-initialCardChosen({ val: -1 });
+
+cardsLoaded();
 dayPlanRestored();
 
 ReactDOM.render(
