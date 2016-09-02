@@ -6,7 +6,7 @@ import {
     restoreDayPlan, updateDayPlan, storeDayPlanInLocalStorage
 } from './actions';
 
-const cardsUrl = '/data.json';
+const cardsUrl = 'data.json';
 const dayPlan = 10;
 const stateController = controller(model({
     cards: [],
