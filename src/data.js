@@ -873,6 +873,149 @@ export default {
                     }
                 ]
             }
+        },
+        {
+            text: 'break in',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/break-in',
+                items: [
+                    {
+                        "partOfSpeach": "phrasal verb",
+                        "senses": [
+                            {
+                                "definitions": [
+                                    {
+                                        "meaning": "to interrupt when someone else is talking",
+                                        "examples": [
+                                            "As she was talking, he suddenly broke in, saying, \"That's a lie.\""
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            examples: ["The TV station broke in to report the news of the president's death."]
+        },
+        {
+            text: 'bring sb down',
+            meaning: 'make unhappy',
+            examples: ['This sad music is bringing me down.']
+        },
+        {
+            text: 'bring sb up',
+            meaning: 'raise a child',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/bring-sb-up',
+                items: [
+                    {
+                        "partOfSpeach": "phrasal verb",
+                        "senses": [
+                            {
+                                "definitions": [
+                                    {
+                                        "meaning": "to care for a child until he or she is an adult, often giving him or her particular beliefs",
+                                        "examples": [
+                                            "She was brought up by her grandmother.",
+                                            "They brought her up (as/to be) a Catholic.",
+                                            "David was brought up to respect authority."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "examples": [
+                "My grandparents brought me up after my parents died.",
+                "He was brought up on a diet of political propaganda from birth.",
+                "My father was a real authoritarian so we were brought up very strictly.",
+                "She brought up her children in just the same way her mother did.",
+                "Ann was born and brought up in Ealing.",
+                "He's got some funny ideas about how to bring up children."
+            ]
+        },
+        {
+            text: 'determined',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/determined',
+                items: [
+                    {
+                        "partOfSpeach": "adjective",
+                        "senses": [
+                            {
+                                "definitions": [
+                                    {
+                                        "meaning": "showing the strong desire to follow a particular plan of action even if it is difficult",
+                                        "examples": [
+                                            "a very determined young man",
+                                            "She had a determined look on her face.",
+                                            "I’m determined to finish this book today."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            text: 'devoted',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/devoted',
+                items: [
+                    {
+                        "partOfSpeach": "adjective",
+                        "senses": [
+                            {
+                                "definitions": [
+                                    {
+                                        "meaning": "extremely loving and loyal",
+                                        "examples": [
+                                            "a devoted fan/husband",
+                                            "Lucy is devoted to her cats."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "examples": [
+                "In real life the star of the film is a devoted husband and father.",
+                "The shop has a small but devoted following.",
+                "His most devoted fans think of Morrissey as a sort of god.",
+                "The band's latest album is very poor although devoted fans might enjoy it.",
+                "He described his client as a devoted family man."
+            ]
+        },
+        {
+            text: 'diligent',
+            cambridge: {
+                url: 'http://dictionary.cambridge.org/dictionary/english/diligent',
+                item: [
+                    {
+                        "partOfSpeach": "adjective",
+                        "senses": [
+                            {
+                                "definitions": [
+                                    {
+                                        "meaning": "careful and serious in your work, or done in a careful and determined way",
+                                        "examples": [
+                                            "a diligent worker",
+                                            "They made diligent efforts to carry out their programs."
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
         }
     ]
 };
