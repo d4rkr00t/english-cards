@@ -821,6 +821,212 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "bring sth up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/bring-sth-up",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to start to talk about a particular subject",
+                            "examples": [
+                                "She's always bringing up her health problems.",
+                                "My mother walks out of the room when my father brings up sports."
+                            ]
+                        },
+                        {
+                            "meaning": "to vomit something",
+                            "examples": [
+                                "She was crying so much I thought she'd bring up her breakfast.",
+                                "He drank so much that he brought his dinner up in the toilet."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "The meeting seemed to be going well until Charles brought up the issue of holiday pay.",
+                        "He's forever bringing up the past.",
+                        "The evening was going well until someone brought up the subject of politics.",
+                        "She would start talking about something else whenever he brought up the subject of marriage.",
+                        "It was neither the time nor place to bring up the issue of religion."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "call around",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "phone many different places/people",
+                            "examples": [
+                                "We called around but we weren't able to find the car part we needed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "call sth off",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/call-sth-off",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to cancel, to decide that a planned event, especially a sports event, will not happen, or to end an activity because it is no longer useful or possible",
+                            "examples": [
+                                "Tomorrow's match has been called off because of the icy weather.",
+                                "The police have called off the search for the missing child until dawn tomorrow.",
+                                "Jason called the wedding off because he wasn't in love with his fiancé."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "They've called off the wedding.",
+                        "We had to call off the party because of his health.",
+                        "The wedding was planned for June and they've just called the whole thing off.",
+                        "Is it too late to call it off?",
+                        "They've had to call off the match at the last minute."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "catch up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/catch-up",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to reach someone or something by moving faster than the other person or thing",
+                            "examples": [
+                                "She is really fast, and I couldn’t catch up with her.",
+                                "fig. We’re a young, growing company, and we’re trying to catch up to the competition.",
+                                "You'll have to run faster than that if you want to catch up with Marty."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                },
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to talk with someone you know in order to exchange news or information",
+                            "examples": [
+                                "By the time coffee came, R.J. and Angelo had caught up a little bit."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "dish the dirt",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "to tell people unpleasant or shocking personal information about someone",
+                            "examples": [
+                                "She agreed to dish the dirt on her ex-husband for a large fee."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dub",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/dub",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to give something or someone a particular name, esp. describing what you think of that person or thing",
+                            "examples": [
+                                "At age 21 Ella Fitzgerald was dubbed \"The First Lady of Swing.\""
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "endeavor",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/endeavor",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "an effort or attempt to do something",
+                            "examples": [
+                                "Writing is a very different endeavor than teaching."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                },
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to try to do something",
+                            "examples": [
+                                "I endeavored to explain the legal consequences of his action."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "facet",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/facet",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "one of the parts or features of something",
+                            "examples": [
+                                "There’s always one facet of my golf game that isn’t working."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "fallacy",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/fallacy",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a false belief",
+                            "examples": [
+                                "It is a common fallacy that only men are good at math."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
         }
     ]
 }

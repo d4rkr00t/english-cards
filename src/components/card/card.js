@@ -23,7 +23,7 @@ export function CardMeaning(props) {
 }
 
 export function CardRowList(props) {
-    if (!props.children) return null;
+    if (!props.children || !props.children.length) return null;
     return (
         <ul className='card__row-list'>
             { props.children.map((item, i) => <li className='card__row' key={i}>{item}</li>) }
@@ -42,7 +42,7 @@ export function CardDef(props) {
 }
 
 export function CardExamples(props) {
-    if (!props.children) return null;
+    if (!props.children || !props.children.length) return null;
     return (
         <CardSubsection>
             <CardSubtitle>Extra Examples</CardSubtitle>

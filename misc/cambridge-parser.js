@@ -16,12 +16,8 @@ function getDefinition($def) {
 }
 
 function getSensBlockInfo(bl) {
-    var title = (bl.querySelector('.txt-block--alt2') || {}).innerText;
     var $defs = (bl.querySelectorAll('.def-block') || []);
-    return {
-        title: title,
-        definitions: Array.prototype.map.call($defs, getDefinition)
-    };
+    return Array.prototype.map.call($defs, getDefinition);
 }
 
 function getDataFromSimpleEntry(e) {
@@ -30,7 +26,10 @@ function getDataFromSimpleEntry(e) {
     var $extraexamples = (e.querySelectorAll('.extraexamps .eg') || []);
     return {
         partOfSpeach: partOfSpeach,
-        senses: Array.prototype.map.call($blocks, getSensBlockInfo),
+        definitions: Array.prototype.reduce.call($blocks, (acc, bl) => {
+            var defs = getSensBlockInfo(bl);
+            return acc.concat(defs);
+        }, []),
         examples: getInnerTexts($extraexamples),
     };
 }
@@ -39,14 +38,10 @@ function getDataFromIdiom(e) {
     var $examples = (e.querySelectorAll('.examp .eg') || []);
     return {
         partOfSpeach: 'idiom',
-        senses: [
-            {
-                definitions: [{
-                    meaning: e.querySelector('.def').innerText,
-                    examples: getInnerTexts($examples)
-                }]
-            }
-        ]
+        definitions: [{
+            meaning: e.querySelector('.def').innerText,
+            examples: getInnerTexts($examples)
+        }]
     };
 }
 
