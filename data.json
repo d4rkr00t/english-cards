@@ -1027,6 +1027,200 @@
                     "examples": []
                 }
             ]
+        },
+        {
+            "text": "clean (sth) up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/clean-sb-sth-up",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to make a person or place clean and tidy",
+                            "examples": [
+                                "We'll go out as soon as I've cleaned up the kitchen.",
+                                "I need to clean up (= clean myself or the place where I am) before we go out.",
+                                "Clean yourself up a bit before dinner.",
+                                "Please clean up your bedroom before you go outside."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "come accross sth",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/come-across-sth",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to find something unexpectedly",
+                            "examples": [
+                                "He came across some of his old love letters in his wife's desk.",
+                                "I came across these old photos when I was cleaning the closet."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "come forward",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/come-forward",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "to offer to give help",
+                            "examples": [
+                                "Nobody has come forward yet with information about the accident.",
+                                "The woman came forward with her husband's fingerprints."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "come from somewhere",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/come-from-somewhere-sth",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to be born, got from, or made in a particular place",
+                            "examples": [
+                                "She comes from Italy.",
+                                "Some of the best wines come from France.",
+                                "Does that quote come from Shakespeare?",
+                                "She could hear banging coming from the room upstairs.",
+                                "Where will the money for the project come from?"
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "The art of origami comes from Asia.",
+                        "He's American but his family come/comes from Ireland.",
+                        "They come from a privileged/wealthy background.",
+                        "The two passenger trains involved in the accident had both come from southwest London.",
+                        "His family originally came from Ireland, but resettled in the US in the 19th century.",
+                        "I could hear loud snores coming from Jim's bedroom."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "count on sb",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/count-on-sb",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "rely on",
+                            "examples": [
+                                "I am counting on you to make dinner while I am out.",
+                                "You can always count on Michael in a crisis.",
+                                "I can count on my parents to help me."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "foresight",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/foresight",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "the ability to judge correctly what is going to happen",
+                            "examples": [
+                                "She had the foresight to sell her house just before prices came down."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "go about something",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/go-about-something",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to begin to do something",
+                            "examples": [
+                                "We’d like to help but we’re not sure what’s the best way to go about it."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "have nothing to do with someone/something",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/have-nothing-to-do-with-someone-something",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "to not involve someone or something:",
+                            "examples": [
+                                "This argument has nothing to do with me.",
+                                "Much of the bill has nothing to do with civil rights."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hindsight",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/hindsight",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "the ability to understand an event or situation only after it has happened",
+                            "examples": [
+                                "With (the benefit/wisdom of) hindsight, I should have taken the job.",
+                                "In hindsight, it would have been better to wait."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "His brain was not wired for physics.",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "Physics is very difficult for him.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
