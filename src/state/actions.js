@@ -18,7 +18,7 @@ export function storeCardIdInLocalStorage({ input, state, services }) {
     const current = input.val;
     const items = services.localStorage.get('cards') || [];
     items.unshift(current);
-    services.localStorage.set('cards', items.slice(0, state.historyLength));
+    services.localStorage.set('cards', items.slice(0, state.get('historyLength')));
 }
 
 export function storeDayPlanInLocalStorage({ input, state, services }) {
@@ -38,6 +38,7 @@ export function chooseCard({ input, state, output, services }) {
         idx = Math.floor(Math.random() * cards.length);
     }
 
+    state.set('prevIndex', input.val);
     state.set('index', idx);
     return output({ val: idx });
 }

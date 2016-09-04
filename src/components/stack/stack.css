@@ -10,12 +10,6 @@
     text-align: left;
 }
 
-.stack__controls {
-    margin-top: 16px;
-
-    text-align: right;
-}
-
 @media screen and (max-width: 425px) {
     .stack {
         padding: 16px;

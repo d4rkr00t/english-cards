@@ -11,6 +11,7 @@ const dayPlan = 10;
 const stateController = controller(model({
     cards: [],
     index: -1,
+    prevIndex: null,
     historyLength: dayPlan,
     dayPlan: dayPlan,
     dayPlanLeft: dayPlan

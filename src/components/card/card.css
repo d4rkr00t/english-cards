@@ -1,6 +1,14 @@
 .card {
+    position: relative;
+    z-index: 5;
+
     width: 100%;
+
     user-select: text !important;
+}
+
+.card_prev {
+    z-index: 2;
 }
 
 .card__container {
@@ -12,7 +20,13 @@
     padding: 21px;
 }
 
-.card_sep {
+.card__controls {
+    margin-top: 16px;
+
+    text-align: right;
+}
+
+.card__sep {
     margin: 21px -21px 21px;
 
     border-top: 1px solid rgba(0, 0, 0, .1);

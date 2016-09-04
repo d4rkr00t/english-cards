@@ -1,10 +1,15 @@
 import React from 'react';
+import Hammer from 'react-hammerjs';
 import './card.css';
+import DayPlan from '../day-plan/day-plan';
+import NextButton from '../next-button/next-button';
 import Badge from '../badge/badge';
+import HideCardAnim from '../animation/hide-card';
+import ShowCardAnim from '../animation/show-card';
 
 export function CardSep(props) {
     if (!props.enabled) return null;
-    return <div className='card_sep' />;
+    return <div className='card__sep' />;
 }
 
 export function CardSubsection(props) {
@@ -85,19 +90,30 @@ export function CardCambridge(props) {
     );
 }
 
-export default function Card({ card }) {
+export default function Card({ card, dayPlanLeft, cardChosen, cardSwiped, index, direction }) {
     const isCambridgeSep = Boolean(card.cambridge);
+    const AnimHandler = direction === 'hide' ? HideCardAnim : ShowCardAnim;
+    const cls = ['card'];
+    if (direction === 'hide') cls.push('card_prev');
     return (
-        <div className='card'>
-            <div className='card__container'>
-                <div className='card__content'>
-                    <div className='card__text'>{ card.text }</div>
-                    <CardSep enabled />
-                    <CardItems>{card.items}</CardItems>
-                    <CardSep enabled={isCambridgeSep} />
-                    <CardCambridge>{card.cambridge}</CardCambridge>
+        <AnimHandler>
+            <Hammer onSwipe={ (e) => cardSwiped({ dir: e.direction }) }>
+                <div className={cls.join(' ')}>
+                    <div className='card__container'>
+                        <DayPlan dayPlanLeft={dayPlanLeft} />
+                        <div className='card__content'>
+                            <div className='card__text'>{ card.text }</div>
+                            <CardSep enabled />
+                            <CardItems>{card.items}</CardItems>
+                            <CardSep enabled={isCambridgeSep} />
+                            <CardCambridge>{card.cambridge}</CardCambridge>
+                        </div>
+                    </div>
+                    <div className='card__controls'>
+                        <NextButton onClick={ () => cardChosen({ val: index }) } />
+                    </div>
                 </div>
-            </div>
-        </div>
+            </Hammer>
+        </AnimHandler>
     );
 }
