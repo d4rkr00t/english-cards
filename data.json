@@ -1221,6 +1221,188 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "cross sth out",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/cross-sth-out",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to draw a line through something you have written, usually because it is wrong",
+                            "examples": [
+                                "If you think it's wrong, cross it out and write it again.",
+                                "Please cross out your old address and write your new one."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "cut back",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/cut-back",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to spend less, do less, or use less of something",
+                            "examples": [
+                                "The government has announced plans to cut back on defence spending by 10 percent next year.",
+                                "If exercise is causing you pain, you should cut back.",
+                                "My doctor wants me to cut back on sweets and fatty foods."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "do sth over",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/do-sth-over",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "do again",
+                            "examples": [
+                                "The teacher told him to do the assignment over.",
+                                "My teacher wants me to do my essay over because she doesn't like my topic."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "dress up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/dress-up",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to wear more formal clothes than you usually wear",
+                            "examples": [
+                                "You don’t need to dress up for the party.",
+                                "It's a fancy restaurant so we have to dress up."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "drop in/ by/ over",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/drop-in",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to come for a visit, esp. without having received an invitation for a specific time",
+                            "examples": [
+                                "Drop in whenever you’re in the neighborhood.",
+                                "I might drop in/by/over for tea sometime this week."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "I'll give you a ride.",
+            "items": [
+                {
+                    "partOfSpeach": "sentence",
+                    "definitions": [
+                        {
+                            "meaning": "To take somebody wherever he needs usualy by car. "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "in charge (of something/someone)",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/in-charge-of-something-someone",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "responsible for something or someone:",
+                            "examples": [
+                                "Who’s in charge here?",
+                                "The teacher put me in charge of organizing the project."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "incur",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/incur",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to experience something, usually something unpleasant, as a result of actions you have taken",
+                            "examples": [
+                                "to incur debts/fines/bills",
+                                "The play has incurred the wrath/anger of both audiences and critics.",
+                                "Please detail any costs/expenses incurred by you in attending the interview."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "live on borrowed time",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/live-on-borrowed-time",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "to continue living after a point at which you might easily have died:",
+                            "examples": [
+                                "Since his cancer was diagnosed, he feels as if he's living on borrowed time.",
+                                "It is unlikely that serious decisions will made by a CEO living on borrowed time."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "make light of something",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/make-light-of-something",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "to act as if something is not serious, esp. when it is serious:",
+                            "examples": [
+                                "They've both had knee injuries, but the two friends make light of their weaknesses."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
