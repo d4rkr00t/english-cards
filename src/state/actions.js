@@ -61,3 +61,8 @@ export function updateDayPlan({ state, services, output }) {
     state.set('dayPlanLeft', left < 0 ? 0 : left);
     output({ date: date, left: left < 0 ? 0 : left });
 }
+
+export function cardSwiped({ state, input, output }) {
+    const RIGHT_TO_LEFT = 2;
+    if (input.dir === RIGHT_TO_LEFT) output.success({ val: state.get('index') });
+}

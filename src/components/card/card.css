@@ -1,5 +1,6 @@
 .card {
     width: 100%;
+    user-select: text !important;
 }
 
 .card__container {
@@ -30,7 +31,6 @@
 
     margin-bottom: 9px;
 
-    color: rgba(0, 0, 0, .9);
     color: black;
 }
 
@@ -40,11 +40,9 @@
     color: rgba(0, 0, 0, .6);
 }
 
-.card__section + .card__section {
-    margin-top: 21px;
-}
-
-.card__subsection + .card__subsection {
+.card__section + .card__section,
+.card__subsection + .card__subsection,
+.card__def + .card__def {
     margin-top: 21px;
 }
 
@@ -64,21 +62,12 @@
     margin-top: 12px;
 }
 
-.card__subsection .card__meaning {
-    margin-left: 12px;
-}
-
 .card__subsection .card__row {
     font-size: .95em;
 
     margin-top: 6px;
-    margin-left: 12px;
 
     color: rgba(0, 0, 0, .7);
-}
-
-.card__def + .card__def {
-    margin-top: 21px;
 }
 
 .card__row-list {
@@ -86,11 +75,6 @@
     padding: 0;
 
     list-style: none;
-}
-
-.card__row {
-    width: 100%;
-    margin-left: 12px;
 }
 
 .card__row + .card__row {
@@ -104,8 +88,6 @@
 .card__url,
 .card__url:visited {
     font-size: .9em;
-
-    margin-left: 12px;
 
     word-break: break-all;
 

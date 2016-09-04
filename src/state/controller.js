@@ -2,7 +2,7 @@ import { Controller as controller } from 'cerebral';
 import model from 'cerebral/models/immutable';
 import localStorageServices from './services/local-storage';
 import {
-    loadCards, addCardsToState, chooseCard, storeCardIdInLocalStorage,
+    loadCards, addCardsToState, chooseCard, storeCardIdInLocalStorage, cardSwiped,
     restoreDayPlan, updateDayPlan, storeDayPlanInLocalStorage
 } from './actions';
 
@@ -15,6 +15,11 @@ const stateController = controller(model({
     dayPlan: dayPlan,
     dayPlanLeft: dayPlan
 }));
+
+const chooseCardChain = [
+    chooseCard, storeCardIdInLocalStorage,
+    updateDayPlan, storeDayPlanInLocalStorage
+];
 
 if (process.env.NODE_ENV === 'development') {
     stateController.addModules({
@@ -36,10 +41,9 @@ stateController.addSignals({
         ]
     },
     dayPlanRestored: { chain: [restoreDayPlan] },
-    cardChosen: { chain: [
-            chooseCard, storeCardIdInLocalStorage,
-            updateDayPlan, storeDayPlanInLocalStorage
-        ]
+    cardChosen: { chain: chooseCardChain },
+    cardSwiped: {
+        chain: [cardSwiped, { success: chooseCardChain }]
     }
 });
 
