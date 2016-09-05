@@ -12,9 +12,9 @@
     "eslint-plugin-flowtype": "^2.11.4",
     "eslint-plugin-jsx-a11y": "^2.2.0",
     "eslint-plugin-react": "^6.2.0",
+    "glob": "^7.0.6",
     "react-motion": "^0.9.0",
     "react-scripts": "0.2.3",
-    "sw-precache": "^4.0.0",
     "uglify-js": "^2.7.3"
   },
   "dependencies": {
@@ -26,7 +26,7 @@
     "move:build": "rm -rf docs && mv build docs",
     "copy:manifest": "cp ./manifest.json ./docs/",
     "copy:data": "cp ./data.json ./docs/",
-    "service-worker": "sw-precache --config=./sw-precache-config.json && uglifyjs docs/service-worker.js -o docs/service-worker.js",
+    "service-worker": "node ./service-worker/service-worker-generator.js",
     "build": "react-scripts build && npm run move:build && npm run copy:manifest && npm run copy:data",
     "postbuild": "npm run service-worker",
     "eject": "react-scripts eject"
