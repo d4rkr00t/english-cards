@@ -1403,6 +1403,382 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "grab",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/grab",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to take or take hold of something or someone suddenly",
+                            "examples": [
+                                "Let's grab some coffee on the way out.",
+                                "Let's grab some lunch on the way.",
+                                "Let’s grab a sandwich (= get it and eat it quickly) before we leave.",
+                                "I grabbed the rope and pulled myself out of the water.",
+                                "We’d better get there early, or someone else will grab the best seats (= take them first).",
+                                "Suddenly, she grabbed me when the movie got scary."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "sill",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/sill",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a flat piece of wood, stone, etc. that forms the base of a window or door",
+                            "examples": [
+                                "I often like to sit on a window sill and smoke out the window."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "turn up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/turn-up",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "If something that you have been looking for turns up, you find it unexpectedly",
+                            "examples": [
+                                "The missing letter eventually turned up inside a book."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "I expect a new job will turn up soon.",
+                        "We don't have a house at the moment, but I'm sure something will turn up.",
+                        "This opportunity turned up at just the right time for me.",
+                        "I thought she wouldn't be able to make it but then she suddenly turned up.",
+                        "The boss is having a party this weekend. I hope a lot of people turn up. ",
+                        "I was supposed to have an interview yesterday, but the guy didn't turn up."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "sidewalk",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/sidewalk",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a path with a hard surface on one or both sides of a road, that people walk on",
+                            "examples": [
+                                "Keep on the sidewalk, Rosie, there's a good girl."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "apartment building",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/apartment-building",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a large building that is divided into apartments",
+                            "examples": [
+                                "We have a lot of underground parking. Especially under apartment buildings."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "inconspicuous",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/inconspicuous",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "not easily or quickly noticed or seen, or not attracting attention",
+                            "examples": [
+                                "This type of bird is very inconspicuous because of its dull feathers.",
+                                "At parties, he always stands in a corner and tries to look inconspicuous."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "harsh",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/harsh",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "unpleasant, unkind, cruel, or more severe than is necessary",
+                            "examples": [
+                                "harsh criticism",
+                                "The children had had a harsh upbringing.",
+                                "We thought the punishment was rather harsh for such a minor offence.",
+                                "\"There is no alternative,\" she said in a harsh voice.",
+                                "He said some harsh words (= spoke unkindly) about his brother."
+                            ]
+                        },
+                        {
+                            "meaning": "too strong, bright, loud, etc.",
+                            "examples": [
+                                "harsh chemicals/lighting"
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "The harsh light revealed every crevice and wrinkle in his face.",
+                        "In a harsh economic climate, raises for teachers have become a lightning rod for criticism.",
+                        "The book confronts the harsh social and political realities of the world today.",
+                        "The prison sentence seemed rather harsh, considering the triviality of the offence.",
+                        "The people rebelled against the harsh new government."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "disclose",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/disclose",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to make something known publicly, or to show something that was hidden",
+                            "examples": [
+                                "The company has disclosed profits of over £200 million.",
+                                "The police have disclosed that two officers are under internal investigation."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "She refused to disclose any details of the plan.",
+                        "He received an anonymous letter threatening to disclose details of his affair if he didn't pay the money.",
+                        "This information cannot be disclosed without authorization from a minister.",
+                        "They made an agreement not to disclose any details.",
+                        "The journalist refused to disclose her sources."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "indispensable",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/indispensable",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "Something or someone that is indispensable is so good or important that you could not manage without it, him, or her",
+                            "examples": [
+                                "This book is an indispensable resource for researchers.",
+                                "His long experience at the United Nations makes him indispensable to the talks."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "invaluable",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/invaluable",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "extremely useful",
+                            "examples": [
+                                "The new job will provide you with invaluable experience.",
+                                "Such data will prove invaluable to/for researchers."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "exorbitant",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/exorbitant",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "Exorbitant prices, demands, etc. are much too large",
+                            "examples": [
+                                "The bill for dinner was exorbitant."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "refurbishment",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/refurbishment",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "work such as painting, repairing, and cleaning that is done to make a building look new again",
+                            "examples": [
+                                "The museum has undergone a £15 million refurbishment."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "way off",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "on the wrong track; completely wrong.",
+                            "examples": [
+                                "I think you're way off base. Try again. Sorry. You are way off. You should just give up."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "make up for sth",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/make-up-for-sth",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to take the place of something lost or damaged or to compensate for something bad with something good",
+                            "examples": [
+                                "No amount of money can make up for the death of a child.",
+                                "This year's good harvest will make up for last year's bad one.",
+                                "He bought me dinner to make up for being so late the day before."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "She gave him a bottle of wine to make up for missing his birthday.",
+                        "I worked extra hours to make up for the time I had missed.",
+                        "You need to do something to make up for your rudeness.",
+                        "How can I ever make up for the pain I caused them?",
+                        "I'm taking extra lessons to make up for the time I missed."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "versatile",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/versatile",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "able to change easily from one activity to another or able to be used for many different purposes",
+                            "examples": [
+                                "He's a very versatile young actor who's as happy in highbrow dramas as he is in TV comedies.",
+                                "A leather jacket is a timeless and versatile garment that can be worn in all seasons."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "This jacket is very versatile - you can dress it up for the evening.",
+                        "He is a very versatile actor.",
+                        "We want all our staff to be versatile.",
+                        "This is a very versatile recipe - you can double the portions for a party.",
+                        "Teachers have to be versatile to cope with different ability levels."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "pore",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/pore-over-something",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to look at and study a book, document, etc. carefully",
+                            "examples": [
+                                "She spends a lot of time poring over the historical records of the church."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "http://dictionary.cambridge.org/dictionary/english/sinister",
+            "cambridge": "sinister",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "making you feel that something bad or evil might happen",
+                            "examples": [
+                                "The ruined house had a sinister appearance.",
+                                "A sinister-looking man sat in the corner of the room."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "pavement",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/pavement",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "the hard surface of a road, a sidewalk (= path next to a road), or other area of ground",
+                            "examples": [
+                                "The umbrella fell to the pavement with a clatter."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
         }
     ]
 }
