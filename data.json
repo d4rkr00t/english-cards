@@ -1744,8 +1744,8 @@
             ]
         },
         {
-            "text": "http://dictionary.cambridge.org/dictionary/english/sinister",
-            "cambridge": "sinister",
+            "text": "sinister",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/sinister",
             "items": [
                 {
                     "partOfSpeach": "adjective",
