@@ -1779,6 +1779,30 @@
                     "examples": []
                 }
             ]
+        },
+        {
+            "text": "hence",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/hence",
+            "items": [
+                {
+                    "partOfSpeach": "adverb",
+                    "definitions": [
+                        {
+                            "meaning": "that is the reason or explanation for",
+                            "examples": [
+                                "His mother was Italian, hence his name - Luca."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "Peter's leaving at the end of this week - hence his anxiety to get his work finished.",
+                        "The prime minister was attending the conference, hence all the extra security.",
+                        "He's just got a pay rise, hence the new car.",
+                        "She's just found out she failed her exams, hence her bad mood.",
+                        "The firm is owned by Mark Atkins, hence the name - MA Advertising."
+                    ]
+                }
+            ]
         }
     ]
 }
