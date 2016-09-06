@@ -1,5 +1,6 @@
 import React from 'react';
 import {Motion, spring} from 'react-motion';
+import './animation.css';
 
 export function calcStyle({ opacity, scale, y }) {
     return {
@@ -19,12 +20,12 @@ export default function HideCardAnim(props) {
     const motion = {
         opacity: spring(0),
         scale: spring(0.7),
-        y: spring(-600)
+        y: spring(-1000)
     };
 
     return (
         <Motion defaultStyle={defaultStyle} style={motion}>
-            {params => <div style={calcStyle(params)}>{props.children}</div>}
+            {params => <div style={calcStyle(params)} className='animation'>{props.children}</div>}
         </Motion>
     )
 }
