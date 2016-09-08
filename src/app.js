@@ -2,7 +2,7 @@ import React from 'react';
 import './app.css';
 import Stack from './components/stack/stack';
 
-export default function App(props) {
+export default function App() {
     return (
         <div className='app'>
             <div className='app__cards'>
@@ -12,4 +12,4 @@ export default function App(props) {
             </div>
         </div>
     );
-};
+}

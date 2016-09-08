@@ -3,36 +3,36 @@
   "version": "0.0.1",
   "homepage": "https://d4rkr00t.github.io/english-cards/",
   "devDependencies": {
+    "aik": "^0.10.0",
     "babel-eslint": "^6.1.2",
+    "babel-loader": "^6.2.5",
     "cerebral": "^1.0.1",
     "cerebral-module-devtools": "^0.7.2",
     "cerebral-view-react": "^0.12.12",
     "cz-conventional-changelog": "^1.2.0",
     "eslint": "^3.4.0",
+    "eslint-loader": "^1.5.0",
     "eslint-plugin-flowtype": "^2.11.4",
     "eslint-plugin-jsx-a11y": "^2.2.0",
     "eslint-plugin-react": "^6.2.0",
     "glob": "^7.0.6",
-    "react-motion": "^0.9.0",
-    "react-scripts": "0.2.3",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-hammerjs": "^0.5.0",
+    "react-motion": "^0.4.4",
     "uglify-js": "^2.7.3"
   },
-  "dependencies": {
-    "react": "^15.3.1",
-    "react-dom": "^15.3.1"
-  },
   "scripts": {
-    "start": "react-scripts start",
-    "move:build": "rm -rf docs && mv build docs",
-    "copy:manifest": "cp ./manifest.json ./docs/",
+    "start": "aik src/index.js -r",
+    "build": "aik src/index.js --build docs --base \"/english-cards/\"",
+    "postbuild": "npm run copy:manifest && npm run copy:data && npm run copy:ico && npm run service-worker",
     "copy:data": "cp ./data.json ./docs/",
-    "service-worker": "node ./service-worker/service-worker-generator.js",
-    "build": "react-scripts build && npm run move:build && npm run copy:manifest && npm run copy:data",
-    "postbuild": "npm run service-worker",
-    "eject": "react-scripts eject"
+    "copy:manifest": "cp ./manifest.json ./docs/",
+    "copy:ico": "cp ./favicon.ico ./docs/",
+    "service-worker": "node ./service-worker/service-worker-generator.js"
   },
   "eslintConfig": {
-    "extends": "./node_modules/react-scripts/config/eslint.js"
+    "extends": "./node_modules/aik/lib/eslint-config.js"
   },
   "config": {
     "commitizen": {

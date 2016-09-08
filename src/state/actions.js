@@ -21,7 +21,7 @@ export function storeCardIdInLocalStorage({ input, state, services }) {
     services.localStorage.set('cards', items.slice(0, state.get('historyLength')));
 }
 
-export function storeDayPlanInLocalStorage({ input, state, services }) {
+export function storeDayPlanInLocalStorage({ input, services }) {
     services.localStorage.set('day-plan', { date: input.date, left: input.left });
 }
 

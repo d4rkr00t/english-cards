@@ -5,7 +5,7 @@ const ROOT = './docs';
 const SW_TEMPLATE = './service-worker/service-worker.js';
 const SW_OUTPUT = './docs/service-worker.js';
 const SW_INLINE_SCRIPT = './service-worker/service-worker-inline-script.js';
-const SW_INLINE_SCRIPT_PLACEHOLDER = /<script id="service-worker"><\/script>/;
+const SW_INLINE_SCRIPT_PLACEHOLDER = /<script id=service-worker><\/script>/;
 const PAGE = './docs/index.html';
 const VERSION = Date.now();
 const PREFIX = '/english-cards';
