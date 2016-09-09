@@ -1803,6 +1803,259 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "spank",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/spank",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to hit someone, esp. a child, with the hand on the buttocks, usually as a punishment",
+                            "examples": []
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "consider",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/consider",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to think about a particular subject or thing or about doing something or about whether to do something",
+                            "examples": [
+                                "Consider Clara Barton, who founded the American Red Cross.",
+                                "We considered moving to California, but decided not to.",
+                                "We have to consider what to do next."
+                            ]
+                        },
+                        {
+                            "meaning": "to care about or respect",
+                            "examples": [
+                                "Before raising the admission prices, consider the fans."
+                            ]
+                        },
+                        {
+                            "meaning": "to believe to be; to think of as",
+                            "examples": [
+                                "What some people would consider a personal attack, Andy considers a friendly discussion."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "cranky",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/cranky",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "easily annoyed or upset",
+                            "examples": [
+                                "a cranky baby",
+                                "He's been cranky all day."
+                            ]
+                        },
+                        {
+                            "meaning": "strange and unusual",
+                            "examples": [
+                                "She's a member of a group that promotes cranky ideas about food and exercise."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "lean towards sth",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/lean-towards-sth",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to be interested in something and be likely to do a particular activity",
+                            "examples": [
+                                "She's not sure what she wants to do, but she's leaning towards medicine.",
+                                "Games are leaning towards 3D technology."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "fuss",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/fuss",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a show of anger, worry, or excitement that is unnecessary or greater than the situation deserves",
+                            "examples": [
+                                "She made such a fuss when Richard spilled a drop of wine on her blouse!",
+                                "It's all a fuss about nothing.",
+                                "I don't see what the fuss is about - he seems like a fairly ordinary-looking guy to me.",
+                                "We tried to arrange a ceremony with as little fuss as possible."
+                            ]
+                        },
+                        {
+                            "meaning": "attention given to small matters that are not important",
+                            "examples": [
+                                "The article was entitled \"Making up with the minimum of fuss: a five-minute beauty routine that every busy woman should know\"."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "I felt so ashamed of myself for making such a fuss.",
+                        "He kicked up a tremendous fuss about having to wait.",
+                        "I can't think what's got into him. He doesn't usually make such a fuss.",
+                        "God, he's such a drama queen! I've never seen such a fuss.",
+                        "I grant that it must have been upsetting but even so I think she made a bit of a fuss."
+                    ]
+                },
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to give too much attention to small matters that are not important, usually in a way that shows that you are worried and not relaxed",
+                            "examples": [
+                                "Please, stop fussing - the food's cooking and there's nothing more to do until the guests arrive.",
+                                "It irritates me the way she's always fussing with her hair!"
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "disgraceful",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/disgraceful",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "very bad",
+                            "examples": [
+                                "disgraceful behaviour/conduct",
+                                "a disgraceful situation",
+                                "She thought that their attitude was absolutely disgraceful.",
+                                "It is disgraceful that children can get hold of drugs at school."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "implication",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/implication",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "an occasion when you seem to suggest something without saying it directly",
+                            "examples": [
+                                "From what she said, the implication was that they were splitting up.",
+                                "She accused the party and, by implication, its leader too."
+                            ]
+                        },
+                        {
+                            "meaning": "the effect that an action or decision will have on something else in the future",
+                            "examples": [
+                                "The company is cutting back its spending and I wonder what the implications will be for our department.",
+                                "What are the implications of the new law?"
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "Because of security implications the officers were tried in secret.",
+                        "What are the implications of his report?",
+                        "The implication of her claim is that the Minister lied to Parliament.",
+                        "The incident has serious security implications.",
+                        "It's not yet clear what the implications of the new legislation will be for small businesses."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "try sth out",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/try-sth-out",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to use something to discover if it works or if you like it",
+                            "examples": [
+                                "Don't forget to try out the equipment before setting up the experiment."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "leverage",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/leverage",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to use something that you already have in order to achieve something new or better",
+                            "examples": [
+                                "We can gain a market advantage by leveraging our network of partners."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "crucial",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/crucial",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "extremely important or necessary",
+                            "examples": [
+                                "a crucial decision/question",
+                                "Her work has been crucial to the project's success.",
+                                "It is crucial that the problem is tackled immediately."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "Price will be a crucial factor in the success of this new product.",
+                        "The motif of betrayal and loss is crucial in all these stories.",
+                        "The turning point in her political career came when she was chosen to fight a crucial by-election.",
+                        "During the trial, the prosecution was accused of withholding crucial evidence from the defence.",
+                        "The Panama Canal provides a crucial shipping link between the Atlantic and Pacific oceans."
+                    ]
+                }
+            ]
         }
     ]
 }
