@@ -2056,6 +2056,104 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "scold",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/scold",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to criticize angrily someone who has done something wrong",
+                            "examples": [
+                                "His mother scolded him for breaking the window.",
+                                "There is a girl who is being scolding by her mother"
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "drop sb/sth off",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/drop-sb-sth-off",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to take someone or something to a particular place, usually by car, as you travel to a different place",
+                            "examples": [
+                                "We dropped our luggage off at the hotel and went sightseeing.",
+                                "I have to drop my sister off at work before I come over."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "end up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/end-up",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to finally be in a particular place or situation",
+                            "examples": [
+                                "We ended up renting a movie instead of going to the theatre.",
+                                "They're travelling across Europe by train and are planning to end up in Moscow.",
+                                "Much of this meat will probably end up as dog food.",
+                                "She'll end up penniless if she continues to spend like that.",
+                                "After working her way around the world, she ended up teaching English as a foreign language."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "fall down",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/fall-down",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to fall to the ground",
+                            "examples": [
+                                "Our apple tree fell down in the storm.",
+                                "He stumbled and fell down."
+                            ]
+                        },
+                        {
+                            "meaning": "If a building is falling down, it is in a very bad condition and there is a risk that it will break into pieces and drop to the ground",
+                            "examples": [
+                                "Many buildings in the old part of the city are falling down."
+                            ]
+                        },
+                        {
+                            "meaning": "to fail",
+                            "examples": [
+                                "Where do you think the plan falls down?"
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "The picture that you hung up last night fell down this morning.",
+                        "I'm looking for a doings to hold up a curtain rail that's fallen down.",
+                        "The scaffolding prevents the building from falling down.",
+                        "A new steeple was built after the old one fell down.",
+                        "One of the their players fell down every time someone tried to tackle him.",
+                        "She fell down to her knees and prayed."
+                    ]
+                }
+            ]
         }
     ]
 }
