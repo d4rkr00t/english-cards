@@ -2154,6 +2154,370 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "curtain",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/curtain",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a piece of material, especially cloth, that hangs across a window or opening to make a room or part of a room dark or private",
+                            "examples": [
+                                "Heavy curtains blocked out the sunlight.",
+                                "to draw (= open or close) the curtains"
+                            ]
+                        },
+                        {
+                            "meaning": "a thick layer of something that makes it difficult to see anything behind it",
+                            "examples": [
+                                "They could see nothing through the curtain of rain/smoke."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "The audience was still laughing as the curtain fell.",
+                        "He pulled the curtain aside.",
+                        "I'm trying to match up this wallpaper with some suitable curtain material.",
+                        "A coat of paint and new curtains would really cheer the kitchen up.",
+                        "I peered through a chink in the curtains and saw them all inside."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "back down",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/back-down",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to admit that you were wrong or that you have been defeated",
+                            "examples": [
+                                "Eventually, Roberto backed down and apologized.",
+                                "Local residents have forced the local council to back down from/on its plans to build a nightclub on their street."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "apparently",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/apparently",
+            "items": [
+                {
+                    "partOfSpeach": "adverb",
+                    "definitions": [
+                        {
+                            "meaning": "used to say you have read or been told something although you are not certain it is true",
+                            "examples": [
+                                "Apparently it's going to rain today.",
+                                "Apparently he's had enough of England and is going back to Australia."
+                            ]
+                        },
+                        {
+                            "meaning": "used when the real situation is different from what you thought it was",
+                            "examples": [
+                                "You know I told you Alice's party was on the 13th? Well I saw her last night and apparently it's on the 14th.",
+                                "She looks about ten, but apparently she's 14.",
+                                "I thought they were married but apparently not (= they are not married)."
+                            ]
+                        },
+                        {
+                            "meaning": "used to say that something seems to be true, although it is not certain",
+                            "examples": [
+                                "An 80-year-old woman was badly hurt in what the police describe as an apparently motiveless attack (= an attack for no apparent reason)."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "The train was delayed, apparently due to leaves on the line.",
+                        "His resignation was apparently for personal rather than professional reasons.",
+                        "He lives in Little Overington, apparently, wherever that is.",
+                        "A series of apparently unconnected events led to his resignation.",
+                        "I heard a rumour that she's leaving, but apparently it's not true."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "bribe",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/bribe",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to try to make someone do something for you by giving them money, presents, or something else that they want ",
+                            "examples": [
+                                "He bribed immigration officials and entered the country illegally.",
+                                "They bribed the waiter to find them a better table.",
+                                "He discovered that certain corrupt officials had been bribed to approve shoddy construction work.",
+                                "Apparently various prominent businessmen had been bribing the minister for favours.",
+                                "He bribed the children with sweets and pocket money not to tell their mum what he'd done.",
+                                "\"You can have my chocolate bar if you'll tell me the answer.\" \"Are you trying to bribe me?\"",
+                                "They should not have been allowed over the border, but somehow they managed to bribe the guards."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "money or a present that you give to someone so that they will do something for you, usually something dishonest",
+                            "examples": [
+                                "He was accused of accepting/taking bribes from wealthy businessmen.",
+                                "It was easy to see the gift as a sort of bribe.",
+                                "He showed great strength of character when he refused to accept the bribes.",
+                                "Greenway appeared at Bow Street Magistrates' Court to face seven charges of accepting bribes.",
+                                "His political career ended when he compromised himself by accepting bribes.",
+                                "The only way I can get him to do his homework is by offering him bribes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "threat",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/threat",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a suggestion that something unpleasant or violent will happen, especially if a particular action or order is not followed",
+                            "examples": [
+                                "Her parents carried out their threat to take away her mobile phone if her grades didn't improve.",
+                                "The threat of jail failed to deter him from petty crime.",
+                                "Drunken drivers pose a serious threat (= cause a lot of harm) to other road users.",
+                                "He says he'll tell the authorities but it's just an empty threat (= it will not happen)."
+                            ]
+                        },
+                        {
+                            "meaning": "to be in a situation where people are threatening you with something bad or unpleasant",
+                            "examples": [
+                                "She left the country under threat of arrest if she returned."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "Nuclear weapons pose a threat to everyone.",
+                        "The police have to take any terrorist threat seriously.",
+                        "It is hoped that the kidnappers will not carry out their threat to kill the hostages.",
+                        "Three main line railway stations were closed because of bomb threats.",
+                        "The key witness for the prosecution was offered police protection after she received death threats."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "imperative",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/imperative",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "extremely important or urgent",
+                            "examples": [
+                                "The president said it was imperative that the release of all hostages be secured.",
+                                "It's imperative to act now before the problem gets really serious."
+                            ]
+                        },
+                        {
+                            "meaning": "used to describe the form of a verb that is usually used for giving orders",
+                            "examples": [
+                                "In the phrase \"Leave him alone!\", the verb \"leave\" is in the imperative form."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                },
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "the form of a verb that is usually used for giving orders",
+                            "examples": [
+                                "In the phrase \"Leave him alone!\", the verb \"leave\" is an imperative/is in the imperative."
+                            ]
+                        },
+                        {
+                            "meaning": "something that is extremely important or urgent",
+                            "examples": [
+                                "Getting the unemployed back to work, said the mayor, is a moral imperative."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "A sentence that is a command, such as 'Stand over there', contains an imperative.",
+                        "The next lesson teaches you how to use the imperative tense of Spanish verbs correctly."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "alleviate",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/alleviate",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to make something bad such as pain or problems less severe",
+                            "examples": [
+                                "The drugs did nothing to alleviate her pain/suffering.",
+                                "What are some things you do to help alleviate the discomfort."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "stay up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/stay-up",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to go to bed later than usual",
+                            "examples": [
+                                "We stayed up (late) to watch a film."
+                            ]
+                        },
+                        {
+                            "meaning": "If a football team stays up, it remains in a division and is not relegated (= moved down to a lower division)",
+                            "examples": [
+                                "I think all the newly-promoted clubs have a great chance of staying up this season."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "I stayed up to watch the Olympics on television.",
+                        "The kids were allowed to stay up till midnight on New Year's Eve.",
+                        "I'll be late home so don't stay up waiting for me.",
+                        "We stayed up till 3.00, chatting about old times.",
+                        "These days if I stay up late one night I'm exhausted the next morning."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "look down on sb",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/look-down-on-sb",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to think that you are better than someone",
+                            "examples": [
+                                "She thinks they look down on her because she doesn't have a job."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "head start",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/head-start",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "an advantage that someone has over other people in something such as a competition or race",
+                            "examples": [
+                                "You've got a head start over/on others trying to get the job because you've got relevant work experience.",
+                                "They have a ten-year head start"
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "blunt",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/blunt",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "A blunt pencil, knife, etc. is not sharp and therefore not able to write, cut, etc. well.",
+                            "examples": []
+                        },
+                        {
+                            "meaning": "saying what you think without trying to be polite or considering other people's feelings",
+                            "examples": [
+                                "I'll be blunt - that last piece of work you did was terrible."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "undone",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/undone",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "unfastened",
+                            "examples": [
+                                "Why didn't you tell me my zip was undone!",
+                                "Damn, my shoe-laces have come undone again."
+                            ]
+                        },
+                        {
+                            "meaning": "to be without hope for the future, having experienced great disappointment, loss of money, etc.",
+                            "examples": []
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "delighted",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/delighted",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "very pleased",
+                            "examples": [
+                                "a delighted audience",
+                                "Pat was delighted with her new house.",
+                                "I was delighted at/by your news.",
+                                "I'm absolutely delighted that you can come.",
+                                "We'd be delighted to come to dinner on Friday.",
+                                "The audience was clearly delighted with the performance.",
+                                "She said she didn't care about it, but I believe she was secretly delighted.",
+                                "Le Tissier was delighted when he received his England call-up.",
+                                "The whole school is delighted about Joel's success in the championships.",
+                                "If you'd care to bring your young man along too, we should be delighted to meet him."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
