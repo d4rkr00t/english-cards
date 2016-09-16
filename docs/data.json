@@ -2518,6 +2518,166 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "discreet",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/discreet",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "careful not to cause embarrassment or attract too much attention, especially by keeping something secret",
+                            "examples": [
+                                "The family made discreet enquiries about his background.",
+                                "They are very good assistants, very discreet - they wouldn't go talking to the press.",
+                                "If someone is cheating on their partner or spouse, they should be as discreet as possible so that no one finds out. ",
+                                "We should be discreet when talking about our work around people that are not at Yandex because we shouldn't give away any of our work secrets.",
+                                "Please use discretion when talking about your work."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "appeal",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/appeal",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a request to the public for money, information, or help",
+                            "examples": [
+                                "They're launching (= starting) an appeal to raise money for famine victims.",
+                                "The police have issued an appeal to the public to stay away from the area over the weekend."
+                            ]
+                        },
+                        {
+                            "meaning": "a request made to a court of law or to someone in authority to change a previous decision",
+                            "examples": [
+                                "The case went to the court of appeal/the appeal court.",
+                                "He won his appeal and the sentence was halved.",
+                                "She has lodged (= made) an appeal against the severity of the fine."
+                            ]
+                        },
+                        {
+                            "meaning": "the quality in someone or something that makes him, her, or it attractive or interesting",
+                            "examples": [
+                                "sex appeal",
+                                "Spielberg's movies have a wide appeal.",
+                                "This used to be a marvellous hotel but it has lost its appeal in recent years."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "No witnesses to the accident have come forward yet, despite the police's appeal.",
+                        "The missing child's distraught parents made an emotional appeal for information on TV.",
+                        "The appeal for people to donate blood was very successful.",
+                        "She made an eloquent appeal for action before it was too late.",
+                        "The campaign has been gaining momentum ever since the television appeal.",
+                        "Lee's solicitor said last night that they would be lodging an appeal against the sentence.",
+                        "The district attorney said if McVeigh is given the death penalty and his conviction is upheld on appeal, the state prosecution would become moot.",
+                        "The appeal was rejected by the High Court.",
+                        "The judge ordered that he post a $10 000 bond pending his appeal of the verdict.",
+                        "She took her case to an immigration appeals tribunal."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "figure sth/sb out",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/figure-sth-sb-out",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to finally understand something or someone, or find the solution to a problem after a lot of thought",
+                            "examples": [
+                                "I can't figure out why he did it.",
+                                "I find him really odd - I can't figure him out at all.",
+                                "Can you figure out the answer to question 5?",
+                                "We need to figure out what went wrong.",
+                                "It took them ages to figure out how to assemble the chest of drawers.",
+                                "As soon as she figures out what happened, you're in trouble.",
+                                "When you've figured the answer out, put your hand up.",
+                                "They spent 20 minutes figuring out how to open the box."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fill sth in/out",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/fill-sth-in-out",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to write the necessary information on an official document",
+                            "examples": [
+                                "to fill in a form/questionnaire",
+                                "I had to fill in this really complicated form.",
+                                "To find out more about our products, fill in the coupon and send it to us at the address given below.",
+                                "Please fill in/out the application form with black ink.",
+                                "Would you mind filling in a questionnaire about what you watch on television?",
+                                "Charlie never fills in the record forms, which ruins the whole ordering system."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "fill up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/fill-up",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to make something full, or to become full",
+                            "examples": [
+                                "The sales pipeline for his facility is starting to fill up with clients.",
+                                "Too many spam emails are filling up our inboxes.",
+                                "I always fill the water jug up when it is empty.",
+                                "I'll fill the tank up before we leave for our trip this weekend."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "find (sth) out",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/find-sth-out",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to get information about something because you want to know more about it, or to learn a fact or piece of information for the first time",
+                            "examples": [
+                                "How did you find out about the party?",
+                                "The holiday was a complete surprise - I only found out about it the day before we left.",
+                                "I'll just go and find out what's going on outside.",
+                                "Too late, she found out that the flight had been cancelled.",
+                                "We don't know where he lives. How can we find out?",
+                                "She found out that he'd been cheating on her.",
+                                "It was when we started living together that we found we just weren't compatible.",
+                                "I must find out the train times.",
+                                "I must find out how much it will cost.",
+                                "When he found out what we'd done he was so shocked."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
