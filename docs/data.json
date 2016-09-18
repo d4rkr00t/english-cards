@@ -1726,7 +1726,7 @@
             ]
         },
         {
-            "text": "pore",
+            "text": "pore over sth",
             "cambridge": "http://dictionary.cambridge.org/dictionary/english/pore-over-something",
             "items": [
                 {
@@ -2675,6 +2675,413 @@
                                 "When he found out what we'd done he was so shocked."
                             ]
                         }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "cope",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/cope",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to deal successfully with a difficult situation",
+                            "examples": [
+                                "It must be really hard to cope with three young children and a job.",
+                                "It's only been a year since he died - how's she coping?",
+                                "He had so much pressure on him in his job that eventually he just couldn't cope.",
+                                "Will she be able to cope with the work?",
+                                "The hostages had been confined for so long that they couldn't cope with the outside world.",
+                                "Get a good night's sleep and you'll feel better able to cope.",
+                                "The teacher said that he found it difficult to cope with a class of disaffected teenagers.",
+                                "The emergency services are working at full stretch today to cope with the accident."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "dare",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/dare",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to be brave enough to do something difficult or dangerous or that you should not do",
+                            "examples": [
+                                "She wouldn’t dare go out alone there at night.",
+                                "He wanted to touch it, but he didn’t dare.",
+                                "I can’t believe you dare to talk to me this way!"
+                            ]
+                        },
+                        {
+                            "meaning": "to ask someone to do something that involves risk",
+                            "examples": [
+                                "I dare you to ask him to dance."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "something difficult or dangerous that you do because someone asks you to do it",
+                            "examples": [
+                                "He jumped into the river on a dare."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tireless",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/tireless",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "working energetically and continuously",
+                            "examples": [
+                                "Tony is a tireless worker.",
+                                "The prisoner's family is conducting a tireless campaign for his release.",
+                                "The police have been tireless in their search for the child's killer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "avalanche",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/avalanche",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a large amount of ice, snow, and rock falling quickly down the side of a mountain"
+                        },
+                        {
+                            "meaning": "too many things that arrive or happen at the same time",
+                            "examples": [
+                                "We were swamped by an avalanche of letters/phone calls/complaints."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hang around (somewhere)",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/hang-around-somewhere",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to wait at a place, or to stay near a place or person, often for no particular reason",
+                            "examples": [
+                                "We were just hanging around the mall.",
+                                "She hangs around with some tough kids.",
+                                "We'll probably just hang around the place/house."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "carry out something",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/carry-out-something",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to perform or complete a job or activity; to fulfill",
+                            "examples": [
+                                "I was elected to carry out a program, the governor said, and I have every intention of carrying it out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "invasion",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/invasion",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "an occasion when an army or country uses force to enter and take control of another country",
+                            "examples": [
+                                "They were planning to mount an invasion of the north of the country."
+                            ]
+                        },
+                        {
+                            "meaning": "an occasion when a large number of people or things come to a place in an annoying and unwanted way",
+                            "examples": [
+                                "the annual invasion of foreign tourists"
+                            ]
+                        },
+                        {
+                            "meaning": "an action or process that affects someone's life in an unpleasant and unwanted way",
+                            "examples": [
+                                "an invasion of privacy"
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "The D-Day invasion was a concerted exercise by the armed forces of Britain, the US and Canada.",
+                        "The ancient Britons inhabited these parts of England before the Roman invasion.",
+                        "Thousands of troops have massed along the border in preparation for an invasion.",
+                        "British troops spearheaded the invasion.",
+                        "The overnight invasion took the military experts unawares."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "supervision",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/supervision",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "the act of watching a person or activity and making certain that everything is done correctly, safely, etc.",
+                            "examples": [
+                                "Students are not allowed to handle these chemicals unless they are under the supervision of a teacher.",
+                                "In cases of severe mental handicap, constant supervision is recommended.",
+                                "The drug should only be administered under strict medical supervision.",
+                                "The children were running around with no supervision.",
+                                "The machine should only be used with adult supervision.",
+                                "Never operate the machinery without supervision."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "make someone head spin",
+            "items": [
+                {
+                    "partOfSpeach": "idioem",
+                    "definitions": [
+                        {
+                            "meaning": "If something “makes your head spin,” it means it makes you extremely confused.",
+                            "examples": [
+                                "I don’t understand the instruction manual for this computer program – all the technical jargon just makes my head spin."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "make the grade",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/make-the-grade",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "to perform well enough to succeed in something:",
+                            "examples": [
+                                "Marvin wanted to be an actor, but he didn't make the grade."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "mess sth up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/mess-sth-up",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to make something dirty or untidy",
+                            "examples": [
+                                "Who's messed up the bookshelf?",
+                                "The wind had messed up my hair.",
+                                "They had come along and messed up her arrangement.",
+                                "I've only just tidied this room and you've messed it up already.",
+                                "Who has messed up my sewing box?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to spoil or damage something, or to do something wrong or badly",
+                            "examples": [
+                                "I messed up my chances of becoming a great singer.",
+                                "He says that his divorce has really messed his life up.",
+                                "You really messed up this time.",
+                                "He messed up his life with drugs.",
+                                "The business was going really well until Peter messed it up.",
+                                "Don't mess up your marriage by working every evening.",
+                                "He has messed up his chance of a good education."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "miss out",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/miss-out",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to fail to use an opportunity to enjoy or get an advantage from something",
+                            "examples": [
+                                "Don't miss out on the fantastic bargains in our summer sale.",
+                                "We didn't have a TV at home when I was young, and I felt as though I missed out."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "get sth across",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/get-sth-across",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to manage to make someone understand or believe something",
+                            "examples": [
+                                "We tried to get our point across, but he just wouldn't listen.",
+                                "This is the message that we want to get across to the public.",
+                                "The novel is good at getting the experience of war across to the reader.",
+                                "The campaign had clearly failed to get its message across to the public.",
+                                "The speaker reiterated the main points he was trying to get across to the audience.",
+                                "Do you think he managed to get his ideas across?",
+                                "She usually wastes no time in getting her points across.",
+                                "I tried to get my point across to the judge but she wouldn't listen."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "get on",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/get-on",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to have a good relationship",
+                            "examples": [
+                                "We're getting on much better now that we don't live together.",
+                                "He doesn't get on with his daughter."
+                            ]
+                        },
+                        {
+                            "meaning": "to manage or deal with a situation, especially successfully",
+                            "examples": [
+                                "How are you getting on in your new home?",
+                                "We're getting on quite well with the decorating."
+                            ]
+                        },
+                        {
+                            "meaning": "to continue doing something, especially work",
+                            "examples": [
+                                "I'll leave you to get on then, shall I?"
+                            ]
+                        },
+                        {
+                            "meaning": "to be getting old",
+                            "examples": [
+                                "He's getting on (a bit) - he'll be 76 next birthday."
+                            ]
+                        },
+                        {
+                            "meaning": "If you say it's getting on, or time is getting on, you mean it is becoming late",
+                            "examples": [
+                                "It's getting on - we'd better be going."
+                            ]
+                        },
+                        {
+                            "meaning": "almost",
+                            "examples": [
+                                "He must be getting on for 80 now.",
+                                "It was getting on for midnight."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "We haven't been getting on recently.",
+                        "It's important that you get on with your colleagues.",
+                        "Do you get on with your brother?",
+                        "They got on better when they were children.",
+                        "He gets on with everyone.",
+                        "How are you getting on with your essay?",
+                        "How are you getting on with your new car?",
+                        "He seems to be getting on well in his new job.",
+                        "How did you get on with the questions I set you?",
+                        "I'll have to wait for the results to see how I got on with my exams.",
+                        "I'd better not stop now, I need to get on.",
+                        "He must be getting on a bit now.",
+                        "My dad would love to help but he's getting on a bit now.",
+                        "I should think he's into his eighties by now - he's getting on.",
+                        "You forget - I'm getting on. I'm not as young as I used to be.",
+                        "I suppose they're getting on now and they've had various friends die."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "get away",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/get-away",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to leave or escape from a person or place, often when it is difficult to do this",
+                            "examples": [
+                                "We walked to the next beach to get away from the crowds.",
+                                "I'll get away from work as soon as I can."
+                            ]
+                        },
+                        {
+                            "meaning": "to go somewhere to have a holiday, often because you need to rest",
+                            "examples": [
+                                "I just need to get away for a few days.",
+                                "We've decided to go to hiking in the mountains to get away from it all."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "I had to get away from the party. It was awful.",
+                        "They got away from burning car before it exploded.",
+                        "I finally got away from work at eight o'clock.",
+                        "We're getting away in January for a skiing holiday.",
+                        "By the time the police arrived, the robbers had got away."
                     ]
                 }
             ]
