@@ -3085,6 +3085,66 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "pull a muscle",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/muscle",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "to injure a muscle by stretching it too far so that it is very painful",
+                            "examples": [
+                                "Russell pulled a back muscle early in the game.",
+                                "He pulled a muscle in his groin.",
+                                "I pulled a muscle in my back lifting some drawers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "run-down",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/run-down",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "Run-down buildings or areas are in very bad condition",
+                            "examples": [
+                                "a run-down building/cemetery"
+                            ]
+                        },
+                        {
+                            "meaning": "tired and not healthy, especially because of working too much",
+                            "examples": [
+                                "My doctor said I was looking run-down."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "by no means",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/by-no-means",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "not at all",
+                            "examples": [
+                                "It is by no means certain that we'll finish the project by June.",
+                                "This isn't the last we'll hear of it by any means."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
