@@ -3145,6 +3145,160 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "white lie",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/white-lie",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a lie that is told in order to be polite or to stop someone from being upset by the truth",
+                            "examples": []
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "libel",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/libel",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a piece of writing that contains bad and false things about a person",
+                            "examples": [
+                                "She threatened to sue the magazine for libel."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "slander",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/slander",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a false spoken statement about someone that damages their reputation, or the making of such a statement",
+                            "examples": [
+                                "The doctor is suing his partner for slander.",
+                                "She regarded his comment as a slander on her good reputation."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                },
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to damage someone's reputation by making a false spoken statement about them",
+                            "examples": []
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "faintly",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/faintly",
+            "items": [
+                {
+                    "partOfSpeach": "adverb",
+                    "definitions": [
+                        {
+                            "meaning": "slightly or not strongly",
+                            "examples": [
+                                "She seemed faintly embarrassed to see us there.",
+                                "A light flickered faintly in the distance."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "uncanny",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/uncanny",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "strange or mysterious; difficult or impossible to explain",
+                            "examples": [
+                                "an uncanny resemblance"
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "brush up on something",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/brush-up-on-something",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to improve your knowledge of something already learned but partly forgotten",
+                            "examples": [
+                                "You’d better brush up on your French before going to Paris."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "keep at sth",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/keep-at-sth",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to continue to do or work on something",
+                            "examples": [
+                                "I kept at it and finally finished at three this morning."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "go ballistic",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/ballistic",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "to become extremely angry",
+                            "examples": [
+                                "If your dad finds out you've been skipping school, he'll go ballistic."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
         }
     ]
 }
