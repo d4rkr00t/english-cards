@@ -3294,6 +3294,103 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "narrative",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/narrative",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a story or a description of a series of events",
+                            "examples": [
+                                "It's a moving narrative of wartime adventure.",
+                                "a first-person/third-person narrative",
+                                "a gripping/compelling narrative"
+                            ]
+                        },
+                        {
+                            "meaning": "a particular way of explaining or understanding events",
+                            "examples": [
+                                "There was pressure on academics to construct narratives of the period that were positive.",
+                                "Both sides in the conflict have a narrative of victimhood.",
+                                "the grand narratives of nation, race, and faith"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "outlier",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/outlier",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a person, thing, or fact that is very different from other people, things, or facts, so that it cannot be used to draw general conclusions",
+                            "examples": [
+                                "People who live past 100 are genetic outliers, whose longevity is unreachable for most of us."
+                            ]
+                        },
+                        {
+                            "meaning": "a place that is far from the main part of something",
+                            "examples": [
+                                "The survey showed about 125 outlier sites up to 100 miles from Chaco."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "outstanding",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/outstanding",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "clearly very much better than what is usual",
+                            "examples": [
+                                "an outstanding performance/writer/novel/year",
+                                "It's an area of outstanding natural beauty.",
+                                "The region is renowned for its outstanding natural beauty.",
+                                "Her outstanding performances set a new benchmark for singers throughout the world.",
+                                "He produced the outstanding performance of the match.",
+                                "He gave an outstanding speech to the other directors.",
+                                "Passing her exams was an outstanding achievement.",
+                                "Any outstanding library fines must be paid before you can graduate.",
+                                "There are a number of outstanding problems that still need to be resolved.",
+                                "They believe that all the outstanding issues should fall within the ambit of the talks.",
+                                "He calculated the difference between the outstanding debts and credits.",
+                                "She used the money to pay off the outstanding amount on her mortgage."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "passerby",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/passerby",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "someone who is going past a particular place",
+                            "examples": [
+                                "A passer-by saw smoke and called the fire department."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
         }
     ]
 }
