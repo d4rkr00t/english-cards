@@ -2317,52 +2317,6 @@
             ]
         },
         {
-            "text": "imperative",
-            "cambridge": "http://dictionary.cambridge.org/dictionary/english/imperative",
-            "items": [
-                {
-                    "partOfSpeach": "adjective",
-                    "definitions": [
-                        {
-                            "meaning": "extremely important or urgent",
-                            "examples": [
-                                "The president said it was imperative that the release of all hostages be secured.",
-                                "It's imperative to act now before the problem gets really serious."
-                            ]
-                        },
-                        {
-                            "meaning": "used to describe the form of a verb that is usually used for giving orders",
-                            "examples": [
-                                "In the phrase \"Leave him alone!\", the verb \"leave\" is in the imperative form."
-                            ]
-                        }
-                    ],
-                    "examples": []
-                },
-                {
-                    "partOfSpeach": "noun",
-                    "definitions": [
-                        {
-                            "meaning": "the form of a verb that is usually used for giving orders",
-                            "examples": [
-                                "In the phrase \"Leave him alone!\", the verb \"leave\" is an imperative/is in the imperative."
-                            ]
-                        },
-                        {
-                            "meaning": "something that is extremely important or urgent",
-                            "examples": [
-                                "Getting the unemployed back to work, said the mayor, is a moral imperative."
-                            ]
-                        }
-                    ],
-                    "examples": [
-                        "A sentence that is a command, such as 'Stand over there', contains an imperative.",
-                        "The next lesson teaches you how to use the imperative tense of Spanish verbs correctly."
-                    ]
-                }
-            ]
-        },
-        {
             "text": "alleviate",
             "cambridge": "http://dictionary.cambridge.org/dictionary/english/alleviate",
             "items": [
@@ -3297,6 +3251,47 @@
                         }
                     ],
                     "examples": []
+                }
+            ]
+        },
+        {
+            "text": "revolting",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/revolting",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "extremely unpleasant",
+                            "examples": [
+                                "a revolting smell of rotting cabbage",
+                                "Picking your nose is a revolting habit."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "fare",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/fare",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "the money that you pay for a journey in a vehicle such as a bus or train",
+                            "examples": [
+                                "Train fares are going up again.",
+                                "Take some foreign currency to cover incidentals like the taxi fare to your hotel.",
+                                "Train fare increases of five percent are envisaged for the next year.",
+                                "Please tender the exact fare.",
+                                "Government sources estimate a long-term 50 percent increase in rail fares.",
+                                "The airline's decision to cut air fares is likely to unsettle the market."
+                            ]
+                        }
+                    ]
                 }
             ]
         }
