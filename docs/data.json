@@ -679,7 +679,6 @@
                     ],
                     "examples": [
                         "Anyway, I can't deceive him - it's against all my principles.",
-                        "He repudiated the allegation that he had tried to deceive them.",
                         "I suspect these statistics flatter to deceive.",
                         "What really angered her was the dirty underhand way they had deceived her.",
                         "They deceived us into thinking they would come back later with our money."
@@ -3389,6 +3388,330 @@
                         }
                     ],
                     "examples": []
+                }
+            ]
+        },
+        {
+            "text": "elongated",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/elongated",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "longer and thinner than usual, as if stretched",
+                            "examples": [
+                                "Giacometti’s elongated sculptures of young women"
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "disguise",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/disguise",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to give a new appearance to a person or thing, especially in order to hide its true form",
+                            "examples": [
+                                "He disguised himself by wearing a false beard.",
+                                "Minor skin imperfections can usually be disguised with a spot of make-up.",
+                                "We tried to disguise the fact that it was just a school hall by putting up coloured lights and balloons."
+                            ]
+                        },
+                        {
+                            "meaning": "to hide an opinion, a feeling, etc.",
+                            "examples": [
+                                "I couldn't disguise my disappointment."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "\"Well, I have shown you how to do this before, \" she said, unable to disguise her impatience.",
+                        "Strenuous efforts were made throughout the war to disguise the scale of civilian casualties.",
+                        "She has had a lot of cosmetic surgery in an attempt to disguise her age.",
+                        "My friend rang me up at the office and tried to disguise her voice, but I knew it was her.",
+                        "The journalist disguised himself as a waiter in order to get into the celebrity party."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "admirable",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/admirable",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "deserving respect or approval",
+                            "examples": [
+                                "I think you showed admirable tact/restraint/self-control in your answer.",
+                                "The police did an admirable job in keeping the fans calm."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "lenient",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/lenient",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "not as severe or strong in punishment or judgment as would be expected",
+                            "examples": [
+                                "They believe that judges are too lenient with terrorist suspects.",
+                                "In view of the quantity of drugs involved, 16 years was the most lenient sentence (= punishment) the judge could impose."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "acquire",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/acquire",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to get something",
+                            "examples": [
+                                "He acquired the firm in 2008.",
+                                "I was wearing a newly/recently acquired jacket.",
+                                "I seem to have acquired (= have got although I don't know how) two copies of this book.",
+                                "He has acquired a reputation for being difficult to work with."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "As people grow older, their faces acquire more character.",
+                        "She acquired the painting at a jumble sale for the princely sum of 25p.",
+                        "When she married Giles, she acquired a ready-made family - two teenage sons and a daughter.",
+                        "I didn't like red wine before but I acquired a taste for it while I was living in France.",
+                        "He acquired a reputation as an entertaining speaker."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "brag",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/brag",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to speak too proudly about what you have done or what you own",
+                            "examples": [
+                                "She's always bragging about how much money she earns.",
+                                "They bragged that their team had never been beaten."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "speak your mind",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/speak-your-mind",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "to say what you think about something very directly:",
+                            "examples": [
+                                "He's certainly not afraid to speak his mind."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "put sth off",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/put-sth-off",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to decide or arrange to delay an event or activity until a later time or date",
+                            "examples": [
+                                "The meeting has been put off for a week.",
+                                "I can't put off going to the dentist any longer."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "I've put off talking to him about this for far too long.",
+                        "They decided to put the wedding off until his brother had returned from Brazil."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "witness",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/witness",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a person who sees an event happening, especially a crime or an accident",
+                            "examples": [
+                                "Police are appealing for witnesses to the accident to come forward.",
+                                "According to (eye) witnesses, the robbery was carried out by two teenage boys."
+                            ]
+                        },
+                        {
+                            "meaning": "to see something happen",
+                            "examples": [
+                                "She was witness to the tragic event."
+                            ]
+                        },
+                        {
+                            "meaning": "someone who is asked to be present at a particular event and sign their name in order to prove that things have been done correctly",
+                            "examples": [
+                                "He signed the treaty in the presence of two witnesses.",
+                                "They were married a year after they first met, with two friends acting as witnesses."
+                            ]
+                        },
+                        {
+                            "meaning": "a person in a law court who says what they know about a legal case or a particular person",
+                            "examples": [
+                                "Ten witnesses are expected to testify at the trial today.",
+                                "The key witness for the prosecution was offered police protection after she received death threats."
+                            ]
+                        },
+                        {
+                            "meaning": "a person who is allowed to give their opinion in a law court because of their knowledge or practical experience of a particular subject",
+                            "examples": [
+                                "A psychiatrist was called as an expert witness for the defence."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "If you haven't got a witness, you haven't got a leg to stand on.",
+                        "One by one the witnesses narrated the sequence of events which led up to the disaster.",
+                        "The document was signed in the presence of two witnesses.",
+                        "New witnesses have cast doubt on some of the evidence that sent the 19 year old to the gallows.",
+                        "She bore witness to his patience and diligence."
+                    ]
+                },
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to see something happen, especially an accident or crime",
+                            "examples": [
+                                "Did anyone witness the attack?",
+                                "They were staying in the capital at the time of the riots and witnessed several street battles.",
+                                "He arrived home just in time to witness his brother being taken away by the police."
+                            ]
+                        },
+                        {
+                            "meaning": "to be present at an event and to sign your name as proof that it happened or that it was done correctly",
+                            "examples": [
+                                "Her will was witnessed by two colleagues."
+                            ]
+                        },
+                        {
+                            "meaning": "When a place or period witnesses a particular event, the event happens in that place or during that period",
+                            "examples": [
+                                "This university has witnessed quite a few changes over the years.",
+                                "Those years witnessed momentous changes throughout Europe."
+                            ]
+                        },
+                        {
+                            "meaning": "to show or give proof of something",
+                            "examples": [
+                                "This year's charity ball was the most successful one ever, as witnessed by the number of tickets sold.",
+                                "The programme aroused strong feelings - witness the number of letters received."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "I've never witnessed such extremes of wealth and poverty.",
+                        "Recent years have witnessed a growth in religious fundamentalism.",
+                        "What we are witnessing is the country's slow slide into anarchy.",
+                        "His face registered extreme disapproval of what he had witnessed.",
+                        "It was a terrible thing to witness."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tally (sth) up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/tally-sth-up",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to calculate the total of something",
+                            "examples": [
+                                "If the game's over I'll tally up."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "negotiate",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/negotiate",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to have formal discussions with someone in order to reach an agreement with them",
+                            "examples": [
+                                "The government has refused to negotiate with the strikers.",
+                                "I'm negotiating for a new contract.",
+                                "I've managed to negotiate (= get by discussion) a five percent pay increase with my boss."
+                            ]
+                        },
+                        {
+                            "meaning": "to manage to travel along a difficult route",
+                            "examples": [
+                                "The only way to negotiate the muddy hillside is on foot."
+                            ]
+                        },
+                        {
+                            "meaning": "to deal with something difficult",
+                            "examples": [
+                                "The company's had some tricky problems to negotiate in its first year in business."
+                            ]
+                        },
+                        {
+                            "meaning": "to get or give an amount of money in exchange for a financial document of the same value",
+                            "examples": []
+                        }
+                    ],
+                    "examples": [
+                        "Despite the deep antipathies between them, the two sides have managed to negotiate an agreement.",
+                        "The government's official line has always been to refuse to negotiate with terrorists.",
+                        "The police negotiated with the gunman through an intermediary.",
+                        "We need someone who is practised at negotiating business deals.",
+                        "He spent ages negotiating for a pay increase, only to resign from his job soon after he'd received it."
+                    ]
                 }
             ]
         }
