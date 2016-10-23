@@ -3668,8 +3668,7 @@
                                 "If the game's over I'll tally up."
                             ]
                         }
-                    ],
-                    "examples": []
+                    ]
                 }
             ]
         },
@@ -3701,8 +3700,7 @@
                             ]
                         },
                         {
-                            "meaning": "to get or give an amount of money in exchange for a financial document of the same value",
-                            "examples": []
+                            "meaning": "to get or give an amount of money in exchange for a financial document of the same value"
                         }
                     ],
                     "examples": [
@@ -3714,6 +3712,151 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "inevitable",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/inevitable",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "certain to happen and unable to be avoided or prevented",
+                            "examples": [
+                                "The accident was the inevitable consequence/result/outcome of carelessness."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "Unfortunately, violence is the inevitable corollary of such a revolutionary change in society.",
+                        "The eclipse of the ruling political party was inevitable.",
+                        "The factory closure is seemingly inevitable.",
+                        "The endless public appearances are an inevitable part of an election campaign.",
+                        "When you're working such long hours, it's inevitable that your marriage will start to suffer."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "precedence",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/precedence",
+            "items": [{
+                "partOfSpeach": "noun",
+                "definitions": [{
+                    "meaning": "the condition of being dealt with before other things or of being considered more important than other things",
+                    "examples": [
+                        "Precedence must be given to the injured in the evacuation plans.",
+                        "Business people often think that fluency and communication take precedence over grammar when speaking."
+                    ]
+                }]
+            }]
+        },
+        {
+            "text": "ambiguity",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/ambiguity",
+            "items": [{
+                "partOfSpeach": "noun",
+                "definitions": [{
+                    "meaning": "(an example of) the fact of something having more than one possible meaning and therefore possibly causing confusion",
+                    "examples": [
+                        "We wish to remove any ambiguity concerning our demands.",
+                        "There are some ambiguities in the legislation."
+                    ]
+                }],
+                "examples": [
+                    "There is some ambiguity in the Bible story, and it has been interpreted in different ways.",
+                    "The law ought to be tightened to avoid any ambiguity.",
+                    "Is he now saying that he's in favour of going to war? His statement is full of ambiguity.",
+                    "Let me say this, to avoid any ambiguity, - I am not leaving my wife.",
+                    "Be as precise as possible in your answer, so that there is no ambiguity."
+                ]
+            }]
+        },
+        {
+            "text": "derivation",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/derivation",
+            "items": [{
+                "partOfSpeach": "noun",
+                "definitions": [{
+                    "meaning": "the origin of something, such as a word, from which another form has developed, or the new form itself"
+                }]
+            }]
+        },
+        {
+            "text": "confluence",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/confluence",
+            "items": [{
+                "partOfSpeach": "noun",
+                "definitions": [{
+                    "meaning": "the place where two rivers flow together and become one larger river"
+                }]
+            }]
+        },
+        {
+            "text": "persuade",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/persuade",
+            "items": [{
+                "partOfSpeach": "verb",
+                "definitions": [{
+                    "meaning": "to make someone do or believe something by giving them a good reason to do it or by talking to that person and making them believe it",
+                    "examples": [
+                        "If she doesn't want to go, nothing you can say will persuade her.",
+                        "It's no use trying to persuade him (that) you're innocent.",
+                        "He is trying to persuade local and foreign businesses to invest in the project.",
+                        "Using a bunch of bananas, the zoo-keeper persuaded the monkey back into its cage.",
+                        "The first priority is to persuade the management of the urgency of this matter.",
+                        "Her legal advisers persuaded her into/out of mentioning (= to mention/not to mention) the names of the people involved in the robbery."
+                    ]
+                }],
+                "examples": [
+                    "Clever salesmanship can persuade you to buy things you don't really want.",
+                    "We only need one more player for this game - can you persuade your sister to join in?",
+                    "I have a suspicion that he only asked me out because my brother persuaded him to.",
+                    "Johnson was influential in persuading the producers to put money into the film.",
+                    "She used her womanly charms to persuade him to change his mind."
+                ]
+            }]
+        }, {
+            "text": "not cut it",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/not-cut-it",
+            "items": [{
+                "partOfSpeach": "idiom",
+                "definitions": [{
+                    "meaning": "to not be able to deal with problems or difficulties satisfactorily:",
+                    "examples": [
+                        "We were playing against a more experienced team, and we just couldn't cut it."
+                    ]
+                }]
+            }]
+        },
+        {
+            "text": "behold",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/behold",
+            "items": [{
+                "partOfSpeach": "verb",
+                "definitions": [{
+                    "meaning": "to see or look at someone or something",
+                    "examples": [
+                        "The new bridge is an incredible sight to behold."
+                    ]
+                }],
+                "examples": []
+            }]
+        },
+        {
+            "text": "tedious",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/tedious",
+            "items": [{
+                "partOfSpeach": "adjective",
+                "definitions": [{
+                    "meaning": "boring",
+                    "examples": [
+                        "a tedious job",
+                        "The problem is I find most forms of exercise so tedious."
+                    ]
+                }],
+                "examples": []
+            }]
         }
     ]
 }
