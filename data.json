@@ -2978,5 +2978,161 @@
                 ]
             }]
         }]
+    }, {
+        "text": "stressed (out)",
+        "cambridge": "http://dictionary.cambridge.org/dictionary/english/stressed-out",
+        "items": [{
+            "partOfSpeach": "adjective",
+            "definitions": [{
+                "meaning": "worried and nervous",
+                "examples": [
+                    "She's been feeling very stressed since she started her new job.",
+                    "I was really stressed out before finals."
+                ]
+            }],
+            "examples": [
+                "He get's stressed out waiting in lines.",
+                "I've got too much to do and I'm completely stressed out.",
+                "He's been very stressed at work recently.",
+                "Everyone gets stressed from time to time.",
+                "She seemed a bit stressed and I wondered if she was coping.",
+                "I'd been working flat out and was stressed out."
+            ]
+        }]
+    }, {
+        "text": "reluctant",
+        "cambridge": "http://dictionary.cambridge.org/dictionary/english/reluctant",
+        "items": [{
+            "partOfSpeach": "adjective",
+            "definitions": [{
+                "meaning": "not willing to do something and therefore slow to do it",
+                "examples": [
+                    "I was having such a good time I was reluctant to leave.",
+                    "Many parents feel reluctant to talk openly with their children.",
+                    "She persuaded her reluctant husband to take a trip to Florida with her."
+                ]
+            }],
+            "examples": [
+                "The United Nations was reluctant to get its forces embroiled in civil war.",
+                "I'm a bit reluctant to get involved.",
+                "The government was reluctant to sanction intervention in the crisis.",
+                "The government is understandably reluctant to do anything which might spoil the harmonious relations between the country's ethnic groups.",
+                "A mother was coaxing her reluctant child into the water."
+            ]
+        }]
+    }, {
+        "text": "desperate",
+        "cambridge": "http://dictionary.cambridge.org/dictionary/english/desperate",
+        "items": [{
+            "partOfSpeach": "adjective",
+            "definitions": [{
+                "meaning": "very serious or bad",
+                "examples": [
+                    "desperate poverty",
+                    "a desperate shortage of food/supplies",
+                    "The situation is desperate - we have no food, very little water and no medical supplies."
+                ]
+            }, {
+                "meaning": "very great or extreme",
+                "examples": [
+                    "The earthquake survivors are in desperate need of help.",
+                    "He has a desperate desire to succeed.",
+                    "I'm in a desperate hurry."
+                ]
+            }, {
+                "meaning": "needing or wanting something very much",
+                "examples": [
+                    "They are desperate for help.",
+                    "I'm desperate for a drink!",
+                    "He was desperate to tell someone his good news."
+                ]
+            }, {
+                "meaning": "feeling that you have no hope and are ready to do anything to change the bad situation you are in",
+                "examples": [
+                    "The doctors made one last desperate attempt/effort to save the boy's life.",
+                    "Desperate measures are needed to deal with the growing drug problem.",
+                    "They made a desperate plea for help."
+                ]
+            }, {
+                "meaning": "willing to be violent, and therefore dangerous",
+                "examples": [
+                    "This man is desperate and should not be approached since he may have a gun."
+                ]
+            }],
+            "examples": [
+                "I felt I couldn't cope with the situation and was in desperate need of some reassurance.",
+                "They spun us a story about being in desperate need of money.",
+                "Her desperate request for help was met with a rebuff.",
+                "They spun us a story about being in desperate need of money.",
+                "This is a desperate situation which requires a truly radical solution.",
+                "The fashion industry is always desperate to innovate.",
+                "He seems to have a desperate need to be loved by everyone.",
+                "As he left the theatre, the singer was set upon by fans desperate for autographs.",
+                "I was desperate to find a way out of teaching so when this job came along I snatched at it.",
+                "It was a bit insensitive of Fiona to go on so much about fat people when she knows Mandy is desperate to lose weight.",
+                "It was a desperate attempt to salvage the situation.",
+                "The government took desperate measures to keep the economy running.",
+                "I'm not so desperate as to agree to that.",
+                "Security forces fired tear gas and rubber bullets in a desperate attempt to maintain control.",
+                "Villagers used sandbags in a desperate attempt to save their homes from the flood water."
+            ]
+        }]
+    }, {
+        "text": "get to know sth",
+        "items": [{
+            "partOfSpeach": "verb",
+            "definitions": [{
+                "meaning": "to spend time with someone or something so that you gradually learn more about him, her, or it",
+                "examples": [
+                    "The first couple of meetings are for the doctor and patient to get to know each other.",
+                    "I'll need a few weeks to get to know the system."
+                ]
+            }]
+        }]
+    }, {
+        "text": "don't mind me",
+        "cambridge": "http://dictionary.cambridge.org/dictionary/english/don-t-mind-me",
+        "items": [{
+            "partOfSpeach": "idiom",
+            "definitions": [{
+                "meaning": "said to tell someone who is in the same room as you not to pay any attention to you, because you do not want to interrupt what they are doing:",
+                "examples": [
+                    "Don't mind me - I'm just sorting out some files here."
+                ]
+            }]
+        }]
+    }, {
+        "text": "allege",
+        "cambridge": "http://dictionary.cambridge.org/dictionary/english/allege",
+        "items": [{
+            "partOfSpeach": "verb",
+            "definitions": [{
+                "meaning": "to say that someone has done something illegal or wrong without giving proof",
+                "examples": [
+                    "The two men allege (that) the police forced them to make false confessions.",
+                    "She is alleged to have been at the centre of an international drug ring.",
+                    "It was alleged that Johnson had struck Mr Rahim on the head."
+                ]
+            }],
+            "examples": [
+                "The prosecution alleged that he lured the officer to his death by making an emergency call.",
+                "It has been alleged that the minister received a secret payoff from an arms dealer.",
+                "The woman alleged rape, but Reeves insisted it was consensual.",
+                "Campaigners now have compelling documentary evidence of the human rights abuses that they had been alleging for several years.",
+                "The woman alleges that her employers passed her over for promotion because she was pregnant."
+            ]
+        }]
+    }, {
+        "text": "the last straw",
+        "cambridge": "http://dictionary.cambridge.org/dictionary/english/last-straw",
+        "items": [{
+            "partOfSpeach": "idiom",
+            "definitions": [{
+                "meaning": "the latest problem in a series of problems, that makes a situation impossible to accept:",
+                "examples": [
+                    "The last straw was when the company fired most of the managers."
+                ]
+            }]
+        }]
     }]
 }
