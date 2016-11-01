@@ -4242,6 +4242,55 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "weed",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/weed",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "any wild plant that grows in an unwanted place, especially in a garden or field where it prevents the cultivated plants from growing freely"
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "be your last resort",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/be-your-last-resort",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "to be the only person or thing that might be able to help you, when every other person or possibility has failed:",
+                            "examples": [
+                                "You have to help me - you're my last resort."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "northernmost",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/northernmost",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "furthest towards the north of an area",
+                            "examples": [
+                                "Cape Columbia is the northernmost point of Canada."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
