@@ -4291,6 +4291,253 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "knob",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/knob",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a round handle, or a small, round device for controlling a machine or electrical equipment",
+                            "examples": [
+                                "a brass door knob",
+                                "Turn/Twiddle the little knob to adjust the volume.",
+                                "Turn the knob in a clockwise direction.",
+                                "He pulled the knob and it just came off in his hand.",
+                                "She turned the door knob and quietly opened the door.",
+                                "Twiddle a knob on a radio in Britain and you may hear more voices speaking crackly French or German than English.",
+                                "At the twiddle of a knob the operators can focus on a tiny amount of airspace or scan the whole area."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stuck up",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/stuck-up",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "too proud and considering yourself to be very important",
+                            "examples": [
+                                "She's so stuck up, she won't even talk to us.",
+                                "a bunch of stuck-up snobs"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "contrived",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/contrived",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "artificial and difficult to believe",
+                            "examples": [
+                                "I enjoyed the film, but felt the ending was a bit contrived.",
+                                "His excuse sounded a bit contrived."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "unfortunate",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/unfortunate",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "unlucky or having bad effects",
+                            "examples": [
+                                "She has inherited her father's large nose, which is very unfortunate.",
+                                "It was unfortunate (that) he called at the exact moment when our guests were arriving."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "There's nothing anybody can do about it, it's just unfortunate that this had to happen now.",
+                        "It was a very unfortunate accident/incident.",
+                        "It's unfortunate that his parents can't be there to see him perform.",
+                        "She has a very unfortunate resemblance to her rather unattractive mother.",
+                        "It's unfortunate that he seems to have inherited his father's poor vision."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "crummy",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/crummy",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "of very bad quality",
+                            "examples": [
+                                "a crummy old carpet"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "anxious",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/anxious",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "worried and nervous",
+                            "examples": [
+                                "My mother always gets a bit anxious if we don't arrive when we say we will.",
+                                "I saw my sister's anxious face at the window.",
+                                "The drought has made farmers anxious about the harvest."
+                            ]
+                        },
+                        {
+                            "meaning": "eager to do something",
+                            "examples": [
+                                "Developing countries that are anxious for hard currency can rarely afford to protect the environment.",
+                                "I'm anxious to get home to open my presents.",
+                                "I'm anxious that we get there on time because I don't think there'll be many seats left."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "There was nothing in his demeanour that suggested he was anxious.",
+                        "Knots of anxious people stood waiting in the hall.",
+                        "I've never seen her worried or anxious in any way - she's so laid-back.",
+                        "It's natural that you should feel anxious when you first leave home.",
+                        "As the date of his operation drew near, he became more and more anxious.",
+                        "She eased the key into the lock, anxious not to wake anyone.",
+                        "The mayor and the city council are anxious to avoid getting entangled in the controversy.",
+                        "The universities are anxious to preserve their autonomy from central government.",
+                        "I'm anxious to avoid the motorway at rush hour.",
+                        "We left early, anxious to make it back to Florence before sundown."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "invariant",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/invariant",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "not changing",
+                            "examples": [
+                                "traits that are invariant throughout all mammals"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "malicious",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/malicious",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "intended to harm or upset other people",
+                            "examples": [
+                                "malicious gossip",
+                                "a malicious look in his eyes",
+                                "He complained that he'd been receiving malicious phone calls.",
+                                "He was charged with malicious wounding."
+                            ]
+                        },
+                        {
+                            "meaning": "intended to cause damage to a computer system, or to steal private information from a computer system",
+                            "examples": [
+                                "protection against malicious software/code"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "legitimate",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/legitimate",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "allowed by law",
+                            "examples": [
+                                "The army must give power back to the legitimate government."
+                            ]
+                        },
+                        {
+                            "meaning": "reasonable and acceptable",
+                            "examples": [
+                                "He claimed that the restaurant bill was a legitimate business expense."
+                            ]
+                        },
+                        {
+                            "meaning": "A legitimate child is one whose parents are legally married at the time of his or her birth.",
+                            "examples": []
+                        }
+                    ],
+                    "examples": [
+                        "Her passport seemed legitimate, but on closer inspection, it was found to have been altered.",
+                        "They complained about excessive government intrusion into their legitimate activities.",
+                        "Legitimate refugees should be treated with compassion.",
+                        "Her complaints were quite legitimate.",
+                        "He has a legitimate claim to the money."
+                    ]
+                },
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to make something legal or acceptable",
+                            "examples": [
+                                "The government fears that talking to terrorists might legitimate their violent actions."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "lash out",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/lash-out",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to suddenly attack someone or something physically or criticize him, her, or it in an angry way",
+                            "examples": [
+                                "I was only teasing him and suddenly he lashed out (at me) and hit me in the face.",
+                                "Why's Tina in such a bad mood? She really lashed out at me when I was late for work."
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
