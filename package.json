@@ -5,7 +5,7 @@
   "devDependencies": {
     "aik": "^0.12.1",
     "babel-loader": "^6.2.5",
-    "cerebral": "^1.0.1",
+    "cerebral": "^1.1.0",
     "cerebral-module-devtools": "^0.7.2",
     "cerebral-view-react": "^0.12.12",
     "cz-conventional-changelog": "^1.2.0",
@@ -15,10 +15,10 @@
     "eslint-plugin-jsx-a11y": "^2.2.0",
     "eslint-plugin-react": "^6.2.0",
     "glob": "^7.0.6",
-    "react": "^15.3.1",
-    "react-dom": "^15.3.1",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
     "react-hammerjs": "^0.5.0",
-    "react-motion": "^0.4.4",
+    "react-motion": "^0.4.5",
     "uglify-js": "^2.7.3"
   },
   "scripts": {
