@@ -4798,6 +4798,292 @@
                     "examples": []
                 }
             ]
+        },
+        {
+            "text": "feasible",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/feasible",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "able to be made, done, or achieved",
+                            "examples": [
+                                "With the extra resources, the project now seems feasible.",
+                                "It may be feasible to clone human beings, but is it ethical?"
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "toss",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/toss",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to throw something carelessly",
+                            "examples": [
+                                "He glanced at the letter and then tossed it into the bin.",
+                                "The bull tossed him up into the air.",
+                                "Andrew tossed him the ball."
+                            ]
+                        },
+                        {
+                            "meaning": "When you toss food you shake or mix small pieces of it together with a sauce or dressing",
+                            "examples": [
+                                "a tossed salad",
+                                "carrots tossed in butter"
+                            ]
+                        },
+                        {
+                            "meaning": "If you toss your hair or a part of your body you move it up and back suddenly",
+                            "examples": [
+                                "She tossed her head in annoyance.",
+                                "She tossed back her hair."
+                            ]
+                        },
+                        {
+                            "meaning": "to move about from side to side or turn a lot in bed, especially because you cannot sleep",
+                            "examples": [
+                                "I was tossing and turning all night."
+                            ]
+                        },
+                        {
+                            "meaning": "to throw a coin up into the air and guess which side will land facing up, as a way of making a decision",
+                            "examples": [
+                                "Let's toss (a coin) to see who'll go first.",
+                                "\"I'll toss you for it - heads or tails?\""
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "Let's toss a coin to see who'll go first.",
+                        "He tossed the letter into the bin.",
+                        "They tossed the beggars a few coins.",
+                        "I tossed a few clothes into a suitcase.",
+                        "I tossed a clove of garlic into the stew."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stride",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/stride",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "an important positive development",
+                            "examples": [
+                                "The West made impressive strides in improving energy efficiency after the huge rises in oil prices during the 70s.",
+                                "The group has made strides to expand internationally."
+                            ]
+                        },
+                        {
+                            "meaning": "a long step when walking or running",
+                            "examples": [
+                                "She attributes her record-breaking speed to the length of her stride."
+                            ]
+                        },
+                        {
+                            "meaning": "trousers",
+                            "examples": [
+                                "a new pair of strides"
+                            ]
+                        }
+                    ],
+                    "examples": []
+                },
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to walk somewhere quickly with long steps",
+                            "examples": [
+                                "She strode purposefully up to the desk and demanded to speak to the manager.",
+                                "He strode across/into/out of the room."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "wary",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/wary",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "not completely trusting or certain about something or someone",
+                            "examples": [
+                                "I'm a little wary of/about giving people my address when I don't know them very well."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "All authors need to be wary of inadvertent copying of other people's ideas.",
+                        "The legal system is full of snares for those who are not wary.",
+                        "Tourists should be wary, as pickpockets are known to operate in this area.",
+                        "Buyers should be wary of hidden costs when purchasing their holiday.",
+                        "The teacher was wary of giving his pupils too much information at once."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "convey",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/convey",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to express a thought, feeling, or idea so that it is understood by other people",
+                            "examples": [
+                                "His poetry conveys a great sense of religious devotion.",
+                                "Please convey our condolences to the family.",
+                                "I tried to convey in my speech how grateful we all were for his help.",
+                                "You don't want to convey the impression that we're not interested."
+                            ]
+                        },
+                        {
+                            "meaning": "to take or carry someone or something to a particular place",
+                            "examples": [
+                                "The goods are usually conveyed by rail.",
+                                "Could you convey a message to Mr Merrick for me, please?"
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "Few journalists have managed to convey the full horror of the situation.",
+                        "What the book does convey very successfully is the horror of war.",
+                        "No report can convey the unspeakable suffering that this war has caused.",
+                        "Words alone cannot convey the untold misery endured by people in these refugee camps.",
+                        "With a single wag of her finger she managed to convey her total disapproval."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "condemn",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/condemn",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to criticize something or someone strongly, usually for moral reasons",
+                            "examples": [
+                                "The terrorist action has been condemned as an act of barbarism and cowardice.",
+                                "The film was condemned for its sexism."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "She was the only politician to condemn the proposed law on moral grounds .",
+                        "The president took the unusual step of altering his prepared speech in order to condemn the terrorist attack.",
+                        "Her refusal to condemn the violence left her open to the charge of positive support for the campaign .",
+                        "Prince Charles condemned the assertively modernist style of architecture.",
+                        "The Opposition has condemned the government's proposed tax increases."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "get over sth/sb",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/get-over-sth-sb",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to get better after an illness, or feel better after something or someone has made you unhappy",
+                            "examples": [
+                                "She was only just getting over the flu when she got a stomach bug.",
+                                "It took him years to get over the shock of his wife dying.",
+                                "It took her months to get over Michael when he ended the relationship."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "She's only just getting over the death of her husband.",
+                        "He is still getting over the shock of being made redundant.",
+                        "It will take him a long time to get over the operation.",
+                        "You will get over the illness more quickly if you relax.",
+                        "She never completely got over the loss of her first child."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "get around to sth",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/get-around-to-sth",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to do something that you have intended to do for a long time",
+                            "examples": [
+                                "I still haven't got around to fixing that tap."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "I intended to tidy the flat at the weekend, but I didn't get round to it.",
+                        "It's been at the back of my mind to call José for several days now, but I haven't got round to it yet.",
+                        "He never did get around to putting up the shelves.",
+                        "After weeks of putting it off, she finally got around to painting the bedroom.",
+                        "Did you get round to doing the shopping?"
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "give in",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/give-in",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to finally agree to what someone wants, after refusing for a period of time",
+                            "examples": [
+                                "He nagged me so much for a new bike that eventually I gave in.",
+                                "The government cannot be seen as giving in to terrorists' demands."
+                            ]
+                        },
+                        {
+                            "meaning": "to accept that you have been defeated and agree to stop competing or fighting",
+                            "examples": [
+                                "You'll never guess the answer - do you give in?",
+                                "She wouldn't give in until she received a full apology."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "After a heated debate, the employers gave in to the union's demands.",
+                        "I don't think he will give in to your requests if you keep pestering him.",
+                        "He gave in to my suggestion after I had shown him the plans.",
+                        "Keep asking and eventually she'll give in.",
+                        "The government finally gave in to the company's plea for help.",
+                        "He held the other wrestler in a headlock until he gave in.",
+                        "The enemy troops weren't prepared to give in without a fight.",
+                        "After struggling with the crossword for an hour, she finally gave in and looked at the answers.",
+                        "She refused to give in, and finally got the opportunity she was looking for.",
+                        "If your application is rejected this year, don't give in. You can apply again next year."
+                    ]
+                }
+            ]
         }
     ]
 }
