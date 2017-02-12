@@ -4538,6 +4538,266 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "butt in",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/butt-in",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to interrupt a conversation or discussion or someone who is talking",
+                            "examples": [
+                                "He kept on butting in with silly comments."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "incapable",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/incapable",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "unable to do something",
+                            "examples": [
+                                "He seems incapable of walking past a music shop without going in and buying another CD.",
+                                "I think she's incapable of love."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "renowned",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/renowned",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "famous for something",
+                            "examples": [
+                                "The region is renowned for its outstanding natural beauty.",
+                                "Marco Polo is a renowned explorer/is renowned as an explorer."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "gratify",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/gratify",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to please someone, or to satisfy a wish or need",
+                            "examples": [
+                                "We were gratified by the response to our appeal.",
+                                "He was gratified to see how well his students had done."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "nitpicking",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/nitpicking",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "giving too much attention to details that are not important, especially as a way of criticizing",
+                            "examples": [
+                                "If you spent less time nitpicking, you'd get more work done."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "indigenous",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/indigenous",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "naturally existing in a place or country rather than arriving from another place",
+                            "examples": [
+                                "Are there any species of frog indigenous to the area?",
+                                "So who are the indigenous people of this land?"
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "entrenched",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/entrenched",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "Entrenched ideas are so fixed or have existed for so long that they cannot be changed",
+                            "examples": [
+                                "It's very difficult to change attitudes that have become so deeply entrenched over the years.",
+                                "The organization was often criticized for being too entrenched in its views."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "scrap",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/scrap",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to not continue with a system or plan",
+                            "examples": [
+                                "They're considering scrapping the tax and raising the money in other ways.",
+                                "We scrapped our plans for a trip to France."
+                            ]
+                        },
+                        {
+                            "meaning": "to get rid of something that is no longer useful or wanted, often using its parts in new ways",
+                            "examples": [
+                                "Hundreds of nuclear weapons have been scrapped."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                },
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "old cars and machines or pieces of metal, etc. that are not now needed but have parts that can be used to make other things",
+                            "examples": [
+                                "scrap iron/metal",
+                                "We sold our old car for scrap."
+                            ]
+                        },
+                        {
+                            "meaning": "a small piece of something or a small amount of information",
+                            "examples": [
+                                "Do you have a scrap of paper I could write on?",
+                                "I've read every scrap of information I can find on the subject.",
+                                "There's not a scrap of (= no) evidence to suggest that he committed the crime."
+                            ]
+                        },
+                        {
+                            "meaning": "small pieces of food that have not been eaten and are usually thrown away",
+                            "examples": [
+                                "We give all our scraps to our cat."
+                            ]
+                        },
+                        {
+                            "meaning": "a fight or argument, especially a quick, noisy one about something not important",
+                            "examples": [
+                                "A couple of kids were having a scrap in the street."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "renounce",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/renounce",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to say formally or publicly that you no longer own, support, believe in, or have a connection with something",
+                            "examples": [
+                                "Her ex-husband renounced his claim to the family house.",
+                                "Gandhi renounced the use of violence."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "plea",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/plea",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "an urgent and emotional request",
+                            "examples": [
+                                "He made a plea for help/mercy."
+                            ]
+                        },
+                        {
+                            "meaning": "the answer that a person gives in court when they have been accused of committing a crime",
+                            "examples": [
+                                "Mr Wilson entered a plea of not guilty."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "They made a desperate plea for help.",
+                        "The president has made an emotional plea for the killing to stop.",
+                        "Relatives of the dead made an impassioned plea for the bodies to be flown back to this country.",
+                        "The child's mother made a passionate plea for help.",
+                        "Aid organizations are making an urgent plea for financial assistance.",
+                        "The prisoner entered a plea of not guilty.",
+                        "Her plea of ignorance of the law in extenuation of her crime was not accepted.",
+                        "The judge is not likely to look favourably on a plea of not guilty.",
+                        "His plea of guilty to manslaughter was not accepted by the prosecution."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "stumble across/on/upon sth/sb",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/stumble-across-on-upon-sth-sb",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to discover something by chance, or to meet someone by chance",
+                            "examples": [
+                                "Workmen stumbled upon the mosaic while digging foundations for a new building."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
         }
     ]
 }
