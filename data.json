@@ -5084,6 +5084,501 @@
                     ]
                 }
             ]
+        },
+        {
+            "text": "tense",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/tense",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "nervous and worried and unable to relax",
+                            "examples": [
+                                "She was very tense as she waited for the interview."
+                            ]
+                        },
+                        {
+                            "meaning": "If a situation is tense, it causes feelings of worry or nervousness",
+                            "examples": [
+                                "There were some tense moments in the second half of the game."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "This attack will exacerbate the already tense relations between the two communities.",
+                        "The weeks following the riots were extremely tense.",
+                        "For a few tense minutes, the astronauts lost radio contact with mission control.",
+                        "Hendry won the world snooker title after a tense 35-frame final."
+                    ]
+                },
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "If you or your muscles tense, your muscles become stiff and tight because you are frightened or nervous, or are preparing yourself to do something",
+                            "examples": [
+                                "Don't tense your shoulders, just relax.",
+                                "I could feel myself tense up as he touched my neck."
+                            ]
+                        },
+                        {
+                            "meaning": "very nervous and worried and unable to relax because of something that is going to happen",
+                            "examples": [
+                                "You seem all tensed up. Are you still waiting for that call?"
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "eternal",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/eternal",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "lasting forever or for a very long time",
+                            "examples": [
+                                "The company is engaged in the eternal search for a product that will lead the market.",
+                                "Will you two never stop your eternal arguing!"
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "elucidate",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/elucidate",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to explain something or make something clear",
+                            "examples": [
+                                "I don't understand. You'll have to elucidate.",
+                                "The reasons for the change in weather conditions have been elucidated by several scientists."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "contemplate",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/contemplate",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to spend time considering a possible future action, or to consider one particular thing for a long time in a serious and quiet way",
+                            "examples": [
+                                "I'm contemplating going abroad for a year.",
+                                "They were contemplating a move to California.",
+                                "It's too awful/horrific/dangerous to contemplate."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "I'm contemplating leaving my job.",
+                        "Losing a child is just too awful to contemplate.",
+                        "I couldn't contemplate living on my own.",
+                        "He was contemplating his future."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "incentive",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/incentive",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "something that encourages a person to do something",
+                            "examples": [
+                                "Tax incentives have been very effective in encouraging people to save and invest more of their income.",
+                                "There is little incentive for people to leave their cars at home when public transport remains so expensive.",
+                                "Bonus payments provide an incentive to work harder."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "Indexation of pay rises to productivity will give people an incentive to work harder.",
+                        "The incentive to sell more is large - and it plainly works.",
+                        "The management have introduced a productivity incentive scheme for members of staff.",
+                        "Tax incentives have been offered to attract industry to the region.",
+                        "The new law provides incentives for businesses to invest in recycling equipment."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "go over something",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/go-over-something",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to examine or look at something in a careful or detailed way",
+                            "examples": [
+                                "Remember to go over your essay to check for grammar and spelling mistakes."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                },
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to study or explain something again",
+                            "examples": [
+                                "Let’s go over the rules once more before we begin."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "way to go!",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/way-to-go",
+            "items": [
+                {
+                    "partOfSpeach": "idiom",
+                    "definitions": [
+                        {
+                            "meaning": "used to tell someone they have done well, or used humorously when someone has done something stupid:",
+                            "examples": [
+                                "I heard you girls won the contest. Way to go!",
+                                "Way to go, John - you broke the chair!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "rub",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/rub",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to press or be pressed against something with a circular or up-and-down repeated movement",
+                            "examples": [
+                                "She yawned and rubbed her eyes sleepily.",
+                                "He rubbed (at) the stain on his trousers and made it worse.",
+                                "We rubbed some polish into the surface of the wood.",
+                                "She gently rubbed the ointment in.",
+                                "First rub the baking tray well with butter.",
+                                "Alice rubbed the blackboard clean for the teacher.",
+                                "Your cat keeps on rubbing itself (up) against my leg.",
+                                "She was rubbing her hands (together) at the thought of winning.",
+                                "The branches rubbed against each other in the wind.",
+                                "The chair legs have rubbed holes in the carpet.",
+                                "My new shoes are rubbing (against/on my toe) and now I've got blisters.",
+                                "These marks will never rub off (= be cleaned off).",
+                                "Alice rubbed the sums off (= cleaned them off) the blackboard for the teacher."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "She rubbed sun lotion over her entire body.",
+                        "With the back of his hand, he rubbed the stubble on his chin.",
+                        "He rubbed his hand despairingly over his face.",
+                        "The strap had rubbed against his skin and caused irritation.",
+                        "The shoe had rubbed a raw place on her heel."
+                    ]
+                },
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "the act of rubbing something",
+                            "examples": [
+                                "He gave her hair a good rub to dry it."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "canopy",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/canopy",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a cover fixed over a seat or bed, etc. for shelter or decoration",
+                            "examples": []
+                        },
+                        {
+                            "meaning": "the branches and leaves that spread out at the top of a group of trees forming a type of roof",
+                            "examples": []
+                        },
+                        {
+                            "meaning": "the transparent part in a military aircraft that covers the place where the pilot sits",
+                            "examples": []
+                        },
+                        {
+                            "meaning": "the large circular piece of cloth that is the main part of a parachute",
+                            "examples": []
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "extortionate",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/extortionate",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "extremely expensive",
+                            "examples": [
+                                "The price of books nowadays is extortionate."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "tear",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/tear",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to pull or be pulled apart, or to pull pieces off",
+                            "examples": [
+                                "You have to be very careful with books this old because the paper tears very easily.",
+                                "I tore my skirt on the chair as I stood up.",
+                                "A couple of pages had been torn out of/from the book."
+                            ]
+                        },
+                        {
+                            "meaning": "to move very quickly",
+                            "examples": [
+                                "He went tearing along the road after the bus."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "She tried to tear a small piece off the edge.",
+                        "I tore off a piece of paper.",
+                        "The dog's claws tore her dress.",
+                        "The sheet tore right down the middle.",
+                        "You need to tear off the top of the packet."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "ripe",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/ripe",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "(of fruit or crops) completely developed and ready to be collected or eaten",
+                            "examples": [
+                                "Those bananas aren't ripe yet - they're still green."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "The pods split open when the beans are ripe.",
+                        "The oil is made by crushing and pressing ripe olives.",
+                        "Ripe figs spoil easily and cannot be shipped long distances.",
+                        "The fruit turns red when it is ripe.",
+                        "The fruit is picked before it turns ripe."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "saucepan",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/saucepan",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a deep, round pan with straight sides, usually with a handle and a lid, used for cooking things over heat",
+                            "examples": []
+                        }
+                    ],
+                    "examples": [
+                        "an aluminium saucepan",
+                        "Put a lid on the saucepan.",
+                        "Empty the soup into a saucepan and simmer gently for ten minutes.",
+                        "He scrubbed the old saucepan clean and it looked as good as new.",
+                        "That saucepan is going to boil over."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "jet",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/jet",
+            "items": [
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "an aircraft with a jet engine that is able to fly very fast",
+                            "examples": [
+                                "a jet plane",
+                                "a private jet",
+                                "We flew to New York by jet."
+                            ]
+                        },
+                        {
+                            "meaning": "a thin stream of something, such as water or gas, that is forced out of a small hole",
+                            "examples": [
+                                "She turned on the hose and a jet of water sprayed across the yard."
+                            ]
+                        },
+                        {
+                            "meaning": "a small hole in a piece of equipment through which gas or another fuel is forced before it is burned",
+                            "examples": [
+                                "I think the gas jet must be blocked, because the oven won't light."
+                            ]
+                        },
+                        {
+                            "meaning": "a hard, black stone that shines when it is rubbed and is used to make jewellery and other decorative objects",
+                            "examples": []
+                        }
+                    ],
+                    "examples": [
+                        "The jet crash-landed and burst into flames.",
+                        "The jet levelled off at 10,000 feet.",
+                        "The private jet is a symbol of wealth.",
+                        "Moments before crashing, the jet was seen veering sharply to the right.",
+                        "Most of the planes that carry passengers across the Atlantic are wide-bodied jets."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "practical",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/practical",
+            "items": [
+                {
+                    "partOfSpeach": "adjective",
+                    "definitions": [
+                        {
+                            "meaning": "relating to experience, real situations, or actions rather than ideas or imagination",
+                            "examples": [
+                                "Qualifications are important but practical experience is always an plus.",
+                                "The service offers young people practical advice on finding a job.",
+                                "What's the use of theoretical knowledge that has no practical application?"
+                            ]
+                        },
+                        {
+                            "meaning": "suitable for the situation in which something is used",
+                            "examples": [
+                                "I tend to wear clothes that are practical rather than fashionable.",
+                                "Heavy boots aren't very practical for running."
+                            ]
+                        },
+                        {
+                            "meaning": "able to provide effective solutions to problems",
+                            "examples": [
+                                "She has lots of interesting ideas, but they're not very practical.",
+                                "We need someone practical who can cope with a crisis."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "It's all very well knowing things in theory but what you need to gain is practical experience.",
+                        "So how does this theory translate into practical policy?",
+                        "Greater emphasis is given to practical tests rather than written work.",
+                        "We offer practical help for people with disabilities.",
+                        "There are various practical problems that we need to overcome."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "hand sth out",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/hand-sth-out",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to give something to each person in a group or place",
+                            "examples": [
+                                "The teacher asked her to hand out the worksheets.",
+                                "They stood on the street corner handing out leaflets."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "Demonstrators handed out leaflets to passers-by.",
+                        "While the teacher was talking, her assistant handed out pens and paper for us all.",
+                        "Before you leave, I have some notices to hand out to you all.",
+                        "Sam's mum handed out sweets, birthday cake and balloons to everyone at the end of the party.",
+                        "Could you hand out the books for me, David? One to everyone, please."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "give away something",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/give-away-something",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to tell a secret or show your feelings unintentionally",
+                            "examples": [
+                                "I'm not giving away any plot surprises; read the review in the paper if you want to know them.",
+                                "The look on her face gave her away (= showed her real feelings)."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                },
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to supply something at no charge",
+                            "examples": [
+                                "They’re giving away shopping bags."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
         }
     ]
 }
