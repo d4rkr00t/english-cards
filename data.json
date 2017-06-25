@@ -5579,6 +5579,184 @@
                     "examples": []
                 }
             ]
+        },
+        {
+            "text": "concern",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/concern",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to cause worry to someone",
+                            "examples": [
+                                "The state of my father's health concerns us greatly.",
+                                "It concerns me that he hasn't been in contact."
+                            ]
+                        },
+                        {
+                            "meaning": "to be important to someone or to involve someone directly",
+                            "examples": [
+                                "Matters of pollution and the environment concern us all.",
+                                "What I have to say to Amy doesn't concern you."
+                            ]
+                        },
+                        {
+                            "meaning": "If a story, film, or article concerns a particular subject, person, etc., it is about that person or subject",
+                            "examples": [
+                                "The documentary concerns a woman who goes to China as a missionary."
+                            ]
+                        },
+                        {
+                            "meaning": "to become involved with something, or worried about something",
+                            "examples": [
+                                "There's no need for you to concern yourself with what happened.",
+                                "Don't concern yourself. She'll be home soon."
+                            ]
+                        },
+                        {
+                            "meaning": "something you write at the start of a formal letter or notice when you do not know exactly who it should be sent to",
+                            "examples": []
+                        }
+                    ],
+                    "examples": [
+                        "We're now going to turn to an issue that concerns us all - racism.",
+                        "His attitude concerns me.",
+                        "The poor state of the fire escapes concerned me greatly.",
+                        "It concerned them that no doctor was available.",
+                        "Does it concern you that your children are out after dark?",
+                        "Trigonometry concerns the functions of angles, such as sine, cosine and tangent.",
+                        "How I choose to vote does not concern you.",
+                        "The documentary concerns the eating habits of Britain's teenagers.",
+                        "I didn't go to the meeting because nothing on the agenda seemed to concern me.",
+                        "I'll answer any questions that specifically concern this week's homework."
+                    ]
+                },
+                {
+                    "partOfSpeach": "noun",
+                    "definitions": [
+                        {
+                            "meaning": "a worried or nervous feeling about something, or something that makes you feel worried",
+                            "examples": [
+                                "Concern for the safety of the two missing teenagers is growing.",
+                                "There's a lot of public concern about/over dangerous toxins recently found in food.",
+                                "My concern is that you're not getting enough work done."
+                            ]
+                        },
+                        {
+                            "meaning": "a company",
+                            "examples": [
+                                "a family concern",
+                                "It started slowly, but the company is now a going concern (= doing business effectively)."
+                            ]
+                        },
+                        {
+                            "meaning": "something that is important to you, or the fact of being important",
+                            "examples": [
+                                "His concern to appear sophisticated amused everyone.",
+                                "The company's sole concern is to ensure the safety of its employees.",
+                                "There's a matter of some concern that I have to discuss with you."
+                            ]
+                        },
+                        {
+                            "meaning": "something that involves or affects you or is important to you",
+                            "examples": [
+                                "What were the major concerns of the writers from this period?",
+                                "I don't want to hear about it - it's no concern of mine!",
+                                "\"What's happening?\" \"That's none of/not any of your concern.\""
+                            ]
+                        },
+                        {
+                            "meaning": "to be important",
+                            "examples": [
+                                "The results of the election are of concern to us all."
+                            ]
+                        }
+                    ],
+                    "examples": [
+                        "Drug trafficking is a matter of considerable concern for the entire international community .",
+                        "Continued fighting in the city is causing great concern.",
+                        "The recent drop in magazine subscriptions is causing some concern.",
+                        "There is concern that the giant panda will soon become extinct.",
+                        "There is general concern about rising crime rates."
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "tinker",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/tinker",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to make small changes to something, especially in an attempt to repair or improve it",
+                            "examples": [
+                                "He spends every weekend tinkering (around) with his car.",
+                                "I wish the government would stop tinkering with the health service."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "thrive",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/thrive",
+            "items": [
+                {
+                    "partOfSpeach": "verb",
+                    "definitions": [
+                        {
+                            "meaning": "to grow, develop, or be successful",
+                            "examples": [
+                                "His business thrived in the years before the war.",
+                                "She seems to thrive on stress."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "pan out",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/pan-out",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to develop in a particular way or in a successful way",
+                            "examples": [
+                                "We'll have to see how things pan out.",
+                                "Their attempt to start a new business didn't pan out."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
+        },
+        {
+            "text": "flesh sth out",
+            "cambridge": "http://dictionary.cambridge.org/dictionary/english/flesh-sth-out",
+            "items": [
+                {
+                    "partOfSpeach": "phrasal verb",
+                    "definitions": [
+                        {
+                            "meaning": "to add more details or information to something",
+                            "examples": [
+                                "These plans need to be fleshed out with some more figures."
+                            ]
+                        }
+                    ],
+                    "examples": []
+                }
+            ]
         }
     ]
 }
