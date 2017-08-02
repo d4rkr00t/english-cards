@@ -7766,6 +7766,70 @@
           ]
         }
       ]
+    },
+    {
+      "text": "ramification",
+      "cambridge": "http://dictionary.cambridge.org/dictionary/english/ramification",
+      "items": [
+        {
+          "partOfSpeach": "noun",
+          "definitions": [
+            {
+              "meaning": "the possible results of an action",
+              "examples": [
+                "Have you considered all the ramifications of your suggestion?"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "intimidate",
+      "cambridge": "http://dictionary.cambridge.org/dictionary/english/intimidate",
+      "items": [
+        {
+          "partOfSpeach": "verb",
+          "definitions": [
+            {
+              "meaning": "to frighten or threaten someone, usually in order to persuade them to do something that you want them to do",
+              "examples": [
+                "They were intimidated into accepting a pay cut by the threat of losing their jobs."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "big time",
+      "cambridge": "http://dictionary.cambridge.org/dictionary/english/big-time",
+      "items": [
+        {
+          "partOfSpeach": "adverb",
+          "definitions": [
+            {
+              "meaning": "If you do something big time, you do it to a great degree",
+              "examples": [
+                "\"How was the interview?\" \"Terrible, I messed up big time.\"",
+                "Chrissy's into skiing big time (= likes skiing a lot)."
+              ]
+            }
+          ]
+        },
+        {
+          "partOfSpeach": "noun",
+          "definitions": [
+            {
+              "meaning": "the state of being famous or successful",
+              "examples": [
+                "She finally hit the big time (= became famous or successful) with her latest novel.",
+                "You've really made the big time now (= become famous or successful)."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
